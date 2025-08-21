@@ -1,0 +1,138 @@
+{
+  "identifier": "",
+  "motion_text": "Energy and Public Utilities, Amendment 2",
+  "motion_classification": [],
+  "start_date": "2025-05-22",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "104th",
+  "bill": "d549146a-7e1a-11f0-9290-a2330a6b74b7",
+  "bill_action": null,
+  "bill_identifier": "SB1697",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Belt, Christopher",
+      "voter_id": "~{\"name\": \"Belt, Christopher\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Anderson, Neil",
+      "voter_id": "~{\"name\": \"Anderson, Neil\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bryant, Terri",
+      "voter_id": "~{\"name\": \"Bryant, Terri\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cunningham, Bill",
+      "voter_id": "~{\"name\": \"Cunningham, Bill\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cervantes, Javier L",
+      "voter_id": "~{\"name\": \"Cervantes, Javier L\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fowler, Dale",
+      "voter_id": "~{\"name\": \"Fowler, Dale\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hunter, Mattie",
+      "voter_id": "~{\"name\": \"Hunter, Mattie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harriss, Erica",
+      "voter_id": "~{\"name\": \"Harriss, Erica\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Koehler, David",
+      "voter_id": "~{\"name\": \"Koehler, David\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joyce, Patrick J",
+      "voter_id": "~{\"name\": \"Joyce, Patrick J\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stadelman, Steve",
+      "voter_id": "~{\"name\": \"Stadelman, Steve\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Castro, Cristina",
+      "voter_id": "~{\"name\": \"Castro, Cristina\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Harris III, Napoleon",
+      "voter_id": "~{\"name\": \"Harris III, Napoleon\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Rezin, Sue",
+      "voter_id": "~{\"name\": \"Rezin, Sue\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Peters, Robert",
+      "voter_id": "~{\"name\": \"Peters, Robert\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 4
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1697SFA2_44485.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1697SFA2_44485.pdf"
+}

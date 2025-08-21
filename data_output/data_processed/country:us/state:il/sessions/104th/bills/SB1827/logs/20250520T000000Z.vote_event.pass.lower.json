@@ -1,0 +1,114 @@
+{
+  "identifier": "",
+  "motion_text": "Cities & Villages, Amendment 1",
+  "motion_classification": [],
+  "start_date": "2025-05-20",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "024c4a9a-7e1b-11f0-9290-a2330a6b74b7",
+  "bill_action": null,
+  "bill_identifier": "SB1827",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "DeLuca, Anthony",
+      "voter_id": "~{\"name\": \"DeLuca, Anthony\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Canty, Mary Beth",
+      "voter_id": "~{\"name\": \"Canty, Mary Beth\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hernandez, Barbara",
+      "voter_id": "~{\"name\": \"Hernandez, Barbara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hanson, Matt",
+      "voter_id": "~{\"name\": \"Hanson, Matt\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Smith, Nicholas K",
+      "voter_id": "~{\"name\": \"Smith, Nicholas K\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reick, Steven",
+      "voter_id": "~{\"name\": \"Reick, Steven\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Stephens, Brad",
+      "voter_id": "~{\"name\": \"Stephens, Brad\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sosnowski, Joe C",
+      "voter_id": "~{\"name\": \"Sosnowski, Joe C\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "West II, Maurice A",
+      "voter_id": "~{\"name\": \"West II, Maurice A\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Moylan, Martin J",
+      "voter_id": "~{\"name\": \"Moylan, Martin J\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "McLaughlin, Martin",
+      "voter_id": "~{\"name\": \"McLaughlin, Martin\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 9
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400SB1827HFA1_44408.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400SB1827HFA1_44408.pdf"
+}

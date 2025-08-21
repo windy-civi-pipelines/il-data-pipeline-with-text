@@ -1,0 +1,16 @@
+Title: Full Text of SB2319
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB2319 ILGA.GOV SB2319 - 104th General Assembly Rep. Curtis J. Tarver, IIFiled: 5/29/2025   10400SB2319ham001LRB104 09000 BAB 26944 a1AMENDMENT TO SENATE BILL 2319 2    AMENDMENT NO. ______. Amend Senate Bill 2319 on page 31, 3line 20, by deleting "35, 41, 42, 43,"; and 4on page 35, by replacing lines 1 through 6 with the following:5    "Section 800. If and only if Senate Bill 1797 of the 104th 6General Assembly, as amended by House Amendment No. 1, becomes 7law, then Sections 15, 20, 50, 55, 60, 65, 70, 75, 85, 90, 105, 8115, 120, and 125 of this Act are repealed on the date that 9Senate Bill 1797 of the 104th General Assembly becomes law."; 10and 11on page 35, by replacing lines 10 through 13 with the 12following:13     "Sec. 5.1030. The Digital Asset Kiosk Fund. If and only if 14Senate Bill 1797 of the 104th General Assembly, as amended by 15House Amendment No. 1, becomes law, this Section is 16repealed.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB2319 ILGA.GOV SB2319 - 104th General Assembly Rep. Curtis J. Tarver, IIFiled: 5/29/2025   10400SB2319ham001LRB104 09000 BAB 26944 a1AMENDMENT TO SENATE BILL 2319 2    AMENDMENT NO. ______. Amend Senate Bill 2319 on page 31, 3line 20, by deleting "35, 41, 42, 43,"; and 4on page 35, by replacing lines 1 through 6 with the following:5    "Section 800. If and only if Senate Bill 1797 of the 104th 6General Assembly, as amended by House Amendment No. 1, becomes 7law, then Sections 15, 20, 50, 55, 60, 65, 70, 75, 85, 90, 105, 8115, 120, and 125 of this Act are repealed on the date that 9Senate Bill 1797 of the 104th General Assembly becomes law."; 10and 11on page 35, by replacing lines 10 through 13 with the 12following:13     "Sec. 5.1030. The Digital Asset Kiosk Fund. If and only if 14Senate Bill 1797 of the 104th General Assembly, as amended by 15House Amendment No. 1, becomes law, this Section is 16repealed.".

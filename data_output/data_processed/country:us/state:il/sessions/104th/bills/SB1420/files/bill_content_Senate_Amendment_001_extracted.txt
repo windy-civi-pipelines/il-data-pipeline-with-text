@@ -1,0 +1,16 @@
+Title: Full Text of SB1420
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB1420 ILGA.GOV SB1420 - 104th General Assembly Sen. Chapin RoseFiled: 3/17/2025   10400SB1420sam001LRB104 06490 BDA 24022 a1AMENDMENT TO SENATE BILL 1420 2    AMENDMENT NO. ______. Amend Senate Bill 1420 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Department of Public Health Powers and 5Duties Law of the Civil Administrative Code of Illinois is 6amended by adding Section 2310-735 as follows: 7    (20 ILCS 2310/2310-735 new)8    Sec. 2310-735. Rocky Mountain Spotted Fever, ehrlichiosis, 9and anaplasmosis; public announcements. The Department of 10Public Health shall adopt rules requiring a local health 11department to make public announcements for the purpose of 12informing the general public when a positive case of Rocky 13Mountain Spotted Fever, ehrlichiosis, or anaplasmosis is 14detected within a county or area under the local health 15department's jurisdiction.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB1420 ILGA.GOV SB1420 - 104th General Assembly Sen. Chapin RoseFiled: 3/17/2025   10400SB1420sam001LRB104 06490 BDA 24022 a1AMENDMENT TO SENATE BILL 1420 2    AMENDMENT NO. ______. Amend Senate Bill 1420 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Department of Public Health Powers and 5Duties Law of the Civil Administrative Code of Illinois is 6amended by adding Section 2310-735 as follows: 7    (20 ILCS 2310/2310-735 new)8    Sec. 2310-735. Rocky Mountain Spotted Fever, ehrlichiosis, 9and anaplasmosis; public announcements. The Department of 10Public Health shall adopt rules requiring a local health 11department to make public announcements for the purpose of 12informing the general public when a positive case of Rocky 13Mountain Spotted Fever, ehrlichiosis, or anaplasmosis is 14detected within a county or area under the local health 15department's jurisdiction.".

@@ -1,0 +1,16 @@
+Title: Full Text of SB2129
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB2129 ILGA.GOV SB2129 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB2129 Introduced 2/7/2025, by Sen. Julie A. Morrison SYNOPSIS AS INTRODUCED: 20 ILCS 2705/2705-627 new    Amends the Department of Transportation Law of the Civil Administrative Code of Illinois. Provides that the Department of Transportation shall establish an online portal that allows units of local government to submit forms electronically to the Department. The online portal shall provide a tracking feature for the submission as well as a point of contact at the Department of Transportation.LRB104 10810 HLH 20891 b  A BILL FOR SB2129LRB104 10810 HLH 20891 b1    AN ACT concerning State government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Department of Transportation Law of the 5Civil Administrative Code of Illinois is amended by adding 6Section 2705-627 as follows: 7    (20 ILCS 2705/2705-627 new)8    Sec. 2705-627. Local government portal. The Department 9shall establish an online portal that allows units of local 10government to submit forms electronically to the Department. 11The online portal shall provide a tracking feature for the 12submission as well as a point of contact at the Department.
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB2129 ILGA.GOV SB2129 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB2129 Introduced 2/7/2025, by Sen. Julie A. Morrison SYNOPSIS AS INTRODUCED: 20 ILCS 2705/2705-627 new    Amends the Department of Transportation Law of the Civil Administrative Code of Illinois. Provides that the Department of Transportation shall establish an online portal that allows units of local government to submit forms electronically to the Department. The online portal shall provide a tracking feature for the submission as well as a point of contact at the Department of Transportation.LRB104 10810 HLH 20891 b  A BILL FOR SB2129LRB104 10810 HLH 20891 b1    AN ACT concerning State government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Department of Transportation Law of the 5Civil Administrative Code of Illinois is amended by adding 6Section 2705-627 as follows: 7    (20 ILCS 2705/2705-627 new)8    Sec. 2705-627. Local government portal. The Department 9shall establish an online portal that allows units of local 10government to submit forms electronically to the Department. 11The online portal shall provide a tracking feature for the 12submission as well as a point of contact at the Department.

@@ -1,0 +1,16 @@
+Title: Full Text of HB3637
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB3637 ILGA.GOV HB3637 - 104th General Assembly Sen. Karina VillaFiled: 5/2/2025   10400HB3637sam001LRB104 10660 BDA 25785 a1AMENDMENT TO HOUSE BILL 3637 2    AMENDMENT NO. ______. Amend House Bill 3637 on page 171, 3by replacing lines 17 through 23 with the following:4    "(h) If a drug had been approved by the U.S. Food and Drug 5Administration before January 1, 2025, the revocation of 6approval of the drug by the U.S. Food and Drug Administration 7after that date shall not cause it to be deemed an adulterated 8drug in violation of this Act if the drug is recommended for 9use by the World Health Organization, even if the drug's 10labeling reflects prior approval that is no longer in effect, 11so long as the drug's labeling was true and accurate at the 12time of its manufacture. This subsection (h) is inoperative on 13and after January 1, 2035.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB3637 ILGA.GOV HB3637 - 104th General Assembly Sen. Karina VillaFiled: 5/2/2025   10400HB3637sam001LRB104 10660 BDA 25785 a1AMENDMENT TO HOUSE BILL 3637 2    AMENDMENT NO. ______. Amend House Bill 3637 on page 171, 3by replacing lines 17 through 23 with the following:4    "(h) If a drug had been approved by the U.S. Food and Drug 5Administration before January 1, 2025, the revocation of 6approval of the drug by the U.S. Food and Drug Administration 7after that date shall not cause it to be deemed an adulterated 8drug in violation of this Act if the drug is recommended for 9use by the World Health Organization, even if the drug's 10labeling reflects prior approval that is no longer in effect, 11so long as the drug's labeling was true and accurate at the 12time of its manufacture. This subsection (h) is inoperative on 13and after January 1, 2035.".

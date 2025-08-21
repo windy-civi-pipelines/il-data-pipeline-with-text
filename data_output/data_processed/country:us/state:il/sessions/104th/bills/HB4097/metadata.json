@@ -1,0 +1,114 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4097",
+  "title": "HIGHER ED-NONCITIZEN BENEFITS",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Public Higher Education Act, the Board of Higher Education Act, and the Higher Education Student Assistance Act. Provides that a resident of the State who is not lawfully present in the United States is not eligible, on the basis of residence within the State, for any postsecondary educational benefit unless a citizen or national of the United States is eligible for such a benefit without regard to whether the citizen or national is such a resident. Provides that any benefit conferred to a nonresident of the State who is lawfully present in the United States may not be lesser in amount, duration, or scope than the benefit conferred to a State resident who is unlawfully present in the United States."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Regan Deering",
+      "date": "2025-08-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Norine K. Hammond",
+      "date": "2025-08-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Tony M. McCombie",
+      "date": "2025-08-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Regan Deering",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Regan Deering\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Norine K. Hammond",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Norine K. Hammond\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tony M. McCombie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tony M. McCombie\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4097.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205337&DocName=10400HB4097&DocNum=4097&DocTypeID=HB&LegID=164050&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=4097&DocTypeID=HB&LegId=164050&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4097&GAID=18&DocTypeID=HB&LegId=164050&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  }
+}

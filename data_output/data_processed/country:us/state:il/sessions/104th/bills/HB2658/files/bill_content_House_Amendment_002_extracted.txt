@@ -1,0 +1,16 @@
+Title: Full Text of HB2658
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 002
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB2658 ILGA.GOV HB2658 - 104th General Assembly Rep. Ann M. WilliamsFiled: 3/27/2025   10400HB2658ham002LRB104 08651 LNS 24574 a1AMENDMENT TO HOUSE BILL 2658 2    AMENDMENT NO. ______. Amend House Bill 2658, AS AMENDED, 3with reference to page and line numbers of House Amendment No. 41, on page 1, line 5, by deleting "6-203.1,"; and 5on page 1, line 6, after "6-208" by inserting "and by adding 6Section 6-203.2"; and 7by replacing line 10 on page 5 through line 12 on page 6 with 8the following: 9    "(625 ILCS 5/6-203.2 new)10    Sec. 6-203.2. Credit for ignition interlock use. A person 11whose license was suspended and was issued a monitoring device 12driving permit under Section 6-206.1 and who is subsequently 13convicted of the underlying charge, for the same incident, 14shall be given credit for time served on the monitoring device 15driving permit toward any mandatory ignition interlock   10400HB2658ham002- 2 -LRB104 08651 LNS 24574 a1requirement resulting from the conviction if the person had no 2ignition interlock violations, as defined by the Secretary, 3while on the monitoring device driving permit.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB2658 ILGA.GOV HB2658 - 104th General Assembly Rep. Ann M. WilliamsFiled: 3/27/2025   10400HB2658ham002LRB104 08651 LNS 24574 a1AMENDMENT TO HOUSE BILL 2658 2    AMENDMENT NO. ______. Amend House Bill 2658, AS AMENDED, 3with reference to page and line numbers of House Amendment No. 41, on page 1, line 5, by deleting "6-203.1,"; and 5on page 1, line 6, after "6-208" by inserting "and by adding 6Section 6-203.2"; and 7by replacing line 10 on page 5 through line 12 on page 6 with 8the following: 9    "(625 ILCS 5/6-203.2 new)10    Sec. 6-203.2. Credit for ignition interlock use. A person 11whose license was suspended and was issued a monitoring device 12driving permit under Section 6-206.1 and who is subsequently 13convicted of the underlying charge, for the same incident, 14shall be given credit for time served on the monitoring device 15driving permit toward any mandatory ignition interlock   10400HB2658ham002- 2 -LRB104 08651 LNS 24574 a1requirement resulting from the conviction if the person had no 2ignition interlock violations, as defined by the Secretary, 3while on the monitoring device driving permit.".

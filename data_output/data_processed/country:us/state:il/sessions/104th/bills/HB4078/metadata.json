@@ -1,0 +1,84 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4078",
+  "title": "COUNTIES-WIND & SOLAR ENERGY",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Counties Code. In provisions regarding commercial wind energy facilities and commercial solar energy facilities, removes changes made by Public Act 102-1123. Provides that any provision of a county zoning ordinance pertaining to wind farms, commercial wind energy facilities, or commercial solar energy facilities that was in effect before January 27, 2023 may continue in effect notwithstanding any changes made in Public Act 102-1123 and, if applicable, any provision of a county zoning ordinance pertaining to wind farms that was in effect before August 16, 2007 may continue in effect notwithstanding the changes made in Public Act 95-203."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Adam M. Niemerg",
+      "date": "2025-07-01",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Adam M. Niemerg",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Adam M. Niemerg\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4078.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205261&DocName=10400HB4078&DocNum=4078&DocTypeID=HB&LegID=163974&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=4078&DocTypeID=HB&LegId=163974&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4078&GAID=18&DocTypeID=HB&LegId=163974&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  }
+}

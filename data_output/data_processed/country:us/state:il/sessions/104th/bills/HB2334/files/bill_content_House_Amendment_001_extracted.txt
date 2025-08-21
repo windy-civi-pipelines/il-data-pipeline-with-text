@@ -1,0 +1,16 @@
+Title: Full Text of HB2334
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB2334 ILGA.GOV HB2334 - 104th General Assembly Rep. Jennifer Gong-GershowitzFiled: 3/3/2025   10400HB2334ham001LRB104 07707 BDA 22762 a1AMENDMENT TO HOUSE BILL 2334 2    AMENDMENT NO. ______. Amend House Bill 2334 on page 2, 3line 4, after "request.", by inserting "A public body that 4receives a request that would require the public body to open 5hyperlinks or attached files shall, within 5 business days, 6notify the requester of the requirement that the entirety of 7an electronic request must appear within the body of the 8electronic submission.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB2334 ILGA.GOV HB2334 - 104th General Assembly Rep. Jennifer Gong-GershowitzFiled: 3/3/2025   10400HB2334ham001LRB104 07707 BDA 22762 a1AMENDMENT TO HOUSE BILL 2334 2    AMENDMENT NO. ______. Amend House Bill 2334 on page 2, 3line 4, after "request.", by inserting "A public body that 4receives a request that would require the public body to open 5hyperlinks or attached files shall, within 5 business days, 6notify the requester of the requirement that the entirety of 7an electronic request must appear within the body of the 8electronic submission.".

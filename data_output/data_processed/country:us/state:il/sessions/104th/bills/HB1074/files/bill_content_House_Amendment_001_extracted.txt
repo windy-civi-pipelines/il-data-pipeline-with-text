@@ -1,0 +1,16 @@
+Title: Full Text of HB1074
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB1074 ILGA.GOV HB1074 - 104th General Assembly Rep. Janet Yang RohrFiled: 4/2/2025   10400HB1074ham001LRB104 05871 SPS 23962 a1AMENDMENT TO HOUSE BILL 1074 2    AMENDMENT NO. ______. Amend House Bill 1074 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Consumer Fraud and Deceptive Business 5Practices Act is amended by adding Section 2HHHH as follows: 6    (815 ILCS 505/2HHHH new)7    Sec. 2HHHH. Fees for electronic filing prohibited. 8    (a) As used in this Section: 9    "Software company" means a developer of tax software. 10    "Tax software" means any computer software program 11intended for tax return preparation purposes, including, but 12not limited to, an off-the-shelf software program loaded onto 13a tax return preparer's or taxpayer's computer or an online 14tax preparation application. 15    (b) It is an unlawful practice within the meaning of this 16Act for a software company to charge a separate fee for the   10400HB1074ham001- 2 -LRB104 05871 SPS 23962 a1electronic filing of returns under the Illinois Income Tax Act 2or to offer for sale a version of its tax software that charges 3a separate fee for the electronic filing of returns under the 4Illinois Income Tax Act and a version of the same tax software 5that does not.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB1074 ILGA.GOV HB1074 - 104th General Assembly Rep. Janet Yang RohrFiled: 4/2/2025   10400HB1074ham001LRB104 05871 SPS 23962 a1AMENDMENT TO HOUSE BILL 1074 2    AMENDMENT NO. ______. Amend House Bill 1074 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Consumer Fraud and Deceptive Business 5Practices Act is amended by adding Section 2HHHH as follows: 6    (815 ILCS 505/2HHHH new)7    Sec. 2HHHH. Fees for electronic filing prohibited. 8    (a) As used in this Section: 9    "Software company" means a developer of tax software. 10    "Tax software" means any computer software program 11intended for tax return preparation purposes, including, but 12not limited to, an off-the-shelf software program loaded onto 13a tax return preparer's or taxpayer's computer or an online 14tax preparation application. 15    (b) It is an unlawful practice within the meaning of this 16Act for a software company to charge a separate fee for the   10400HB1074ham001- 2 -LRB104 05871 SPS 23962 a1electronic filing of returns under the Illinois Income Tax Act 2or to offer for sale a version of its tax software that charges 3a separate fee for the electronic filing of returns under the 4Illinois Income Tax Act and a version of the same tax software 5that does not.".

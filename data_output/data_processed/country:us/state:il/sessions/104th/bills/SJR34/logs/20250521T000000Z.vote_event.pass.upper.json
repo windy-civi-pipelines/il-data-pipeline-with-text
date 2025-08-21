@@ -1,0 +1,96 @@
+{
+  "identifier": "",
+  "motion_text": "Veterans Affairs",
+  "motion_classification": [],
+  "start_date": "2025-05-21",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "104th",
+  "bill": "9f17f85a-7e1c-11f0-9290-a2330a6b74b7",
+  "bill_action": null,
+  "bill_identifier": "SJR34",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Arellano Jr., Li",
+      "voter_id": "~{\"name\": \"Arellano Jr., Li\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Halpin, Michael W",
+      "voter_id": "~{\"name\": \"Halpin, Michael W\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Porfirio, Mike",
+      "voter_id": "~{\"name\": \"Porfirio, Mike\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Morrison, Julie A",
+      "voter_id": "~{\"name\": \"Morrison, Julie A\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wilcox, Craig",
+      "voter_id": "~{\"name\": \"Wilcox, Craig\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Turner, Doris",
+      "voter_id": "~{\"name\": \"Turner, Doris\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Guzm\u00e1n, Graciela",
+      "voter_id": "~{\"name\": \"Guzm\\u00e1n, Graciela\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Harriss, Erica",
+      "voter_id": "~{\"name\": \"Harriss, Erica\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SJR0034_44429.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SJR0034_44429.pdf"
+}

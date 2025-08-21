@@ -1,0 +1,16 @@
+Title: Full Text of HB3706
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB3706 ILGA.GOV HB3706 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB3706 Introduced 2/18/2025, by Rep. Robyn Gabel SYNOPSIS AS INTRODUCED: 215 ILCS 97/15    Amends the Illinois Health Insurance Portability and Accountability Act. Makes a technical change in a Section concerning the applicability and scope of the Act. LRB104 11193 BAB 21275 b  A BILL FOR HB3706LRB104 11193 BAB 21275 b1    AN ACT concerning regulation. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly:  4    Section 5. The Illinois Health Insurance Portability and 5Accountability Act is amended by changing Section 15 as 6follows: 7    (215 ILCS 97/15)8    Sec. 15. Applicability and scope. This Act applies to all 9health insurance policies and and all health service contracts 10issued, renewed, or delivered for issuance or renewal in this 11State by a health insurance issuer after the effective date of 12this Act. Unless otherwise specifically provided by this Act, 13the standards and requirements imposed by this Act shall 14supersede and replace any and all conflicting, inconsistent or 15less restrictive standards or requirements contained in the 16Illinois Insurance Code, the Health Maintenance Organization 17Act, the Limited Health Service Organization Act, and the 18Voluntary Health Services Plans Act.19(Source: P.A. 90-30, eff. 7-1-97.)
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB3706 ILGA.GOV HB3706 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB3706 Introduced 2/18/2025, by Rep. Robyn Gabel SYNOPSIS AS INTRODUCED: 215 ILCS 97/15    Amends the Illinois Health Insurance Portability and Accountability Act. Makes a technical change in a Section concerning the applicability and scope of the Act. LRB104 11193 BAB 21275 b  A BILL FOR HB3706LRB104 11193 BAB 21275 b1    AN ACT concerning regulation. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly:  4    Section 5. The Illinois Health Insurance Portability and 5Accountability Act is amended by changing Section 15 as 6follows: 7    (215 ILCS 97/15)8    Sec. 15. Applicability and scope. This Act applies to all 9health insurance policies and and all health service contracts 10issued, renewed, or delivered for issuance or renewal in this 11State by a health insurance issuer after the effective date of 12this Act. Unless otherwise specifically provided by this Act, 13the standards and requirements imposed by this Act shall 14supersede and replace any and all conflicting, inconsistent or 15less restrictive standards or requirements contained in the 16Illinois Insurance Code, the Health Maintenance Organization 17Act, the Limited Health Service Organization Act, and the 18Voluntary Health Services Plans Act.19(Source: P.A. 90-30, eff. 7-1-97.)

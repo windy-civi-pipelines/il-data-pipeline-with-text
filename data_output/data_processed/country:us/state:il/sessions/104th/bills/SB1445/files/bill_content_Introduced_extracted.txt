@@ -1,0 +1,16 @@
+Title: Full Text of SB1445
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB1445 ILGA.GOV SB1445 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB1445 Introduced 1/31/2025, by Sen. Chapin Rose SYNOPSIS AS INTRODUCED: 30 ILCS 740/4-1.11  from Ch. 111 2/3, par. 699.11    Amends the Downstate Public Transportation Act. In an Article concerning urbanized area public transportation assistance, provides that the term "operating revenues" does not include income from advertising.LRB104 06399 HLH 16435 b  A BILL FOR SB1445LRB104 06399 HLH 16435 b1    AN ACT concerning finance. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Downstate Public Transportation Act is 5amended by changing Section 4-1.11 as follows: 6    (30 ILCS 740/4-1.11)  (from Ch. 111 2/3, par. 699.11)7    Sec. 4-1.11. "Operating revenues" means income from 8nonreimbursable fares, rental of properties, advertising, 9local and state funds contributed to meet eligible operating 10expenses, and any other amounts collected or received in the 11process of providing public transportation under this Article, 12and any revenue which is an operating revenue according to 13standard accounting practices for the providing of public 14transportation and which the Secretary may determine, 15consistent with the federal Department of Transportation 16regulations and requirements.17(Source: P.A. 86-16.)
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB1445 ILGA.GOV SB1445 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB1445 Introduced 1/31/2025, by Sen. Chapin Rose SYNOPSIS AS INTRODUCED: 30 ILCS 740/4-1.11  from Ch. 111 2/3, par. 699.11    Amends the Downstate Public Transportation Act. In an Article concerning urbanized area public transportation assistance, provides that the term "operating revenues" does not include income from advertising.LRB104 06399 HLH 16435 b  A BILL FOR SB1445LRB104 06399 HLH 16435 b1    AN ACT concerning finance. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Downstate Public Transportation Act is 5amended by changing Section 4-1.11 as follows: 6    (30 ILCS 740/4-1.11)  (from Ch. 111 2/3, par. 699.11)7    Sec. 4-1.11. "Operating revenues" means income from 8nonreimbursable fares, rental of properties, advertising, 9local and state funds contributed to meet eligible operating 10expenses, and any other amounts collected or received in the 11process of providing public transportation under this Article, 12and any revenue which is an operating revenue according to 13standard accounting practices for the providing of public 14transportation and which the Secretary may determine, 15consistent with the federal Department of Transportation 16regulations and requirements.17(Source: P.A. 86-16.)

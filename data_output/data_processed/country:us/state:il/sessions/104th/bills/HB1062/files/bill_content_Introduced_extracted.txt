@@ -1,0 +1,16 @@
+Title: Full Text of HB1062
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB1062 ILGA.GOV HB1062 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB1062 Introduced 1/9/2025___________, by  SYNOPSIS AS INTRODUCED: 20 ILCS 3921/8 new    Amends the Illinois Century Network Act. Provides that the connection of anchor institutions to the Illinois Century Network shall be prioritized according to the type of anchor institution, starting with schools and libraries.LRB104 02979 BDA 12996 b  A BILL FOR HB1062LRB104 02979 BDA 12996 b1    AN ACT concerning State government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Illinois Century Network Act is amended by 5adding Section 8 as follows: 6    (20 ILCS 3921/8 new)7    Sec. 8. Anchor institutions; priorities for connection. 8The connection of anchor institutions to the Illinois Century 9Network shall be prioritized as follows:10        (1) The first priority is the connection of Illinois 11    libraries and schools to the Illinois Century Network.12        (2) The second priority is the connection of 13    State-owned correctional facilities to the Illinois 14    Century Network.15        (3) The third priority is the connection of park 16    districts, forest preserve districts, conservation 17    districts, and soil and water conservation districts to 18    the Illinois Century Network.19        (4) The fourth priority is the connection of all other 20    anchor institutions to the Illinois Century Network.
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB1062 ILGA.GOV HB1062 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB1062 Introduced 1/9/2025___________, by  SYNOPSIS AS INTRODUCED: 20 ILCS 3921/8 new    Amends the Illinois Century Network Act. Provides that the connection of anchor institutions to the Illinois Century Network shall be prioritized according to the type of anchor institution, starting with schools and libraries.LRB104 02979 BDA 12996 b  A BILL FOR HB1062LRB104 02979 BDA 12996 b1    AN ACT concerning State government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Illinois Century Network Act is amended by 5adding Section 8 as follows: 6    (20 ILCS 3921/8 new)7    Sec. 8. Anchor institutions; priorities for connection. 8The connection of anchor institutions to the Illinois Century 9Network shall be prioritized as follows:10        (1) The first priority is the connection of Illinois 11    libraries and schools to the Illinois Century Network.12        (2) The second priority is the connection of 13    State-owned correctional facilities to the Illinois 14    Century Network.15        (3) The third priority is the connection of park 16    districts, forest preserve districts, conservation 17    districts, and soil and water conservation districts to 18    the Illinois Century Network.19        (4) The fourth priority is the connection of all other 20    anchor institutions to the Illinois Century Network.

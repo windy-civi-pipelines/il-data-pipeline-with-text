@@ -1,0 +1,16 @@
+Title: Full Text of SB0265
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB0265 ILGA.GOV SB0265 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB0265 Introduced 1/24/2025, by Sen. Steve Stadelman SYNOPSIS AS INTRODUCED: 50 ILCS 205/30 new    Amends the Local Records Act. Provides that a law enforcement agency that encrypts police scanner transmissions must provide, by license or otherwise, real-time access to those transmissions to broadcast stations, broadcasting stations, radio broadcast stations, and newspapers. Effective January 1, 2026.LRB104 05953 RTM 15986 b  A BILL FOR SB0265LRB104 05953 RTM 15986 b1    AN ACT concerning local government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Local Records Act is amended by adding 5Section 30 as follows: 6    (50 ILCS 205/30 new)7    Sec. 30. Encrypted police scanner transmissions. A law 8enforcement agency that encrypts police scanner transmissions 9must provide, by license or otherwise, real time access to 10those transmissions to broadcast stations, broadcasting 11stations, and radio broadcast stations, as those terms are 12defined in 47 U.S.C. 153, and to newspapers, as that term is 13described in Section 5 of the Notice By Publication Act. 14    Section 99. Effective date. This Act takes effect January 151, 2026.
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB0265 ILGA.GOV SB0265 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB0265 Introduced 1/24/2025, by Sen. Steve Stadelman SYNOPSIS AS INTRODUCED: 50 ILCS 205/30 new    Amends the Local Records Act. Provides that a law enforcement agency that encrypts police scanner transmissions must provide, by license or otherwise, real-time access to those transmissions to broadcast stations, broadcasting stations, radio broadcast stations, and newspapers. Effective January 1, 2026.LRB104 05953 RTM 15986 b  A BILL FOR SB0265LRB104 05953 RTM 15986 b1    AN ACT concerning local government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Local Records Act is amended by adding 5Section 30 as follows: 6    (50 ILCS 205/30 new)7    Sec. 30. Encrypted police scanner transmissions. A law 8enforcement agency that encrypts police scanner transmissions 9must provide, by license or otherwise, real time access to 10those transmissions to broadcast stations, broadcasting 11stations, and radio broadcast stations, as those terms are 12defined in 47 U.S.C. 153, and to newspapers, as that term is 13described in Section 5 of the Notice By Publication Act. 14    Section 99. Effective date. This Act takes effect January 151, 2026.

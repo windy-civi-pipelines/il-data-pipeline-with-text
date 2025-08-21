@@ -1,0 +1,84 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4096",
+  "title": "PEN CD-SURS-BENEFIT SUSPENSION",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the State Universities Article of the Illinois Pension Code. In provisions concerning the suspension of retirement annuities for certain reemployment, provides that the provisions do not apply to an annuitant for any period of service on or after March 9, 2020 during which the annuitant returns to employment under the Article to perform a critical operation during a state of emergency or disaster that is declared by the Governor. Provides that, if an annuitant returns to employment for an employer under the Article during such a period, the annuitant is eligible to receive compensation from an employer for that service and benefits for prior service under the Article, but employee and employer contributions under the Article during that period of reemployment are not required. Provides that service and compensation earned for such reemployment shall not be used to recalculate the annuitant's benefits under the Code. For reemployment to perform a critical operation during a state of emergency or disaster declared by the Governor and that occurred on or after on or after March 9, 2020 and before the effective date of the amendatory Act: requires the System to pay to the annuitant the amount of the suspended or cancelled pension benefits with interest at the effective rate from the date of the suspension or cancellation of the benefit to the date of payment; and, if an annuitant repaid benefits to the System under the provisions, requires the System to pay to the annuitant the amount of that repayment with interest at the effective rate from the date of the annuitant's repayment of benefits to the date of the System's repayment to the annuitant. Provides that an annuitant's benefits shall not be suspended if the annuitant made an employment-related decision having reasonably relied on a statement or statements by a representative or representatives of the System that benefits would not be suspended if such a decision were made. Provides that the amendatory Act applies without regard to whether the annuitant was in service on or after the effective date of the amendatory Act. Effective immediately."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Nicole La Ha",
+      "date": "2025-08-13",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Nicole La Ha",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Nicole La Ha\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4096.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205329&DocName=10400HB4096&DocNum=4096&DocTypeID=HB&LegID=164042&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=4096&DocTypeID=HB&LegId=164042&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4096&GAID=18&DocTypeID=HB&LegId=164042&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  }
+}

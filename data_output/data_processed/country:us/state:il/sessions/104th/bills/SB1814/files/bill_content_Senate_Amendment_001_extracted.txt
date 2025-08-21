@@ -1,0 +1,16 @@
+Title: Full Text of SB1814
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB1814 ILGA.GOV SB1814 - 104th General Assembly Sen. Neil AndersonFiled: 3/19/2025   10400SB1814sam001LRB104 09733 BDA 24099 a1AMENDMENT TO SENATE BILL 1814 2    AMENDMENT NO. ______. Amend Senate Bill 1814 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Department of Public Health Powers and 5Duties Law of the Civil Administrative Code of Illinois is 6amended by adding Section 2310-735 as follows: 7    (20 ILCS 2310/2310-735 new)8    Sec. 2310-735. Public educational effort on amniotic fluid 9embolism.10    (a) As used in this Section, "amniotic fluid embolism" 11means a rare obstetric emergency in which amniotic fluid, 12fetal cells, hair, or other debris enters the maternal 13bloodstream leading to cardiovascular collapse, respiratory 14failure, and disseminated intravascular coagulation.15    (b) The Department shall conduct educational activities 16for providers on the signs, symptoms, and management of   10400SB1814sam001- 2 -LRB104 09733 BDA 24099 a1amniotic fluid embolism.2    (c) The Department shall make available information about 3amniotic fluid embolism on the Department's website.  4    Section 99. Effective date. This Act takes effect upon 5becoming law.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB1814 ILGA.GOV SB1814 - 104th General Assembly Sen. Neil AndersonFiled: 3/19/2025   10400SB1814sam001LRB104 09733 BDA 24099 a1AMENDMENT TO SENATE BILL 1814 2    AMENDMENT NO. ______. Amend Senate Bill 1814 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Department of Public Health Powers and 5Duties Law of the Civil Administrative Code of Illinois is 6amended by adding Section 2310-735 as follows: 7    (20 ILCS 2310/2310-735 new)8    Sec. 2310-735. Public educational effort on amniotic fluid 9embolism.10    (a) As used in this Section, "amniotic fluid embolism" 11means a rare obstetric emergency in which amniotic fluid, 12fetal cells, hair, or other debris enters the maternal 13bloodstream leading to cardiovascular collapse, respiratory 14failure, and disseminated intravascular coagulation.15    (b) The Department shall conduct educational activities 16for providers on the signs, symptoms, and management of   10400SB1814sam001- 2 -LRB104 09733 BDA 24099 a1amniotic fluid embolism.2    (c) The Department shall make available information about 3amniotic fluid embolism on the Department's website.  4    Section 99. Effective date. This Act takes effect upon 5becoming law.".

@@ -1,0 +1,16 @@
+Title: Full Text of HB0013
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB0013 ILGA.GOV HB0013 - 104th General Assembly Rep. Dave SeverinFiled: 2/14/2025   10400HB0013ham001LRB104 03342 HLH 19249 a1AMENDMENT TO HOUSE BILL 13 2    AMENDMENT NO. ______. Amend House Bill 13 on page 2, by 3replacing lines 8 through 16 with the following:4    "(b) A credit under this Section shall not reduce a 5taxpayer's liability to less than zero. If the taxpayer has a 6federal adjusted gross income for the taxable year that does 7not exceed $50,000, then the excess credit amount shall be 8refunded to the taxpayer. The amount of the refund shall not be 9included in the taxpayer's income or resources for the 10purposes of determining the taxpayer's eligibility or benefit 11level for any means-tested benefit program administered by a 12governmental entity unless required by federal law. If the 13taxpayer has a federal adjusted gross income for the taxable 14year that is $50,000 or more, then the excess credit amount 15shall be carried forward and applied to the tax liability for 16the 5 taxable years following the excess credit year. The tax 17credit shall be applied to the earliest year for which there is 18a tax liability. If there are credits for more than one year   10400HB0013ham001- 2 -LRB104 03342 HLH 19249 a1that are available to offset liability, the earlier credit 2shall be applied first.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB0013 ILGA.GOV HB0013 - 104th General Assembly Rep. Dave SeverinFiled: 2/14/2025   10400HB0013ham001LRB104 03342 HLH 19249 a1AMENDMENT TO HOUSE BILL 13 2    AMENDMENT NO. ______. Amend House Bill 13 on page 2, by 3replacing lines 8 through 16 with the following:4    "(b) A credit under this Section shall not reduce a 5taxpayer's liability to less than zero. If the taxpayer has a 6federal adjusted gross income for the taxable year that does 7not exceed $50,000, then the excess credit amount shall be 8refunded to the taxpayer. The amount of the refund shall not be 9included in the taxpayer's income or resources for the 10purposes of determining the taxpayer's eligibility or benefit 11level for any means-tested benefit program administered by a 12governmental entity unless required by federal law. If the 13taxpayer has a federal adjusted gross income for the taxable 14year that is $50,000 or more, then the excess credit amount 15shall be carried forward and applied to the tax liability for 16the 5 taxable years following the excess credit year. The tax 17credit shall be applied to the earliest year for which there is 18a tax liability. If there are credits for more than one year   10400HB0013ham001- 2 -LRB104 03342 HLH 19249 a1that are available to offset liability, the earlier credit 2shall be applied first.".

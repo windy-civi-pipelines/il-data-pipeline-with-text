@@ -1,0 +1,16 @@
+Title: Full Text of HB2850
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 002
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB2850 ILGA.GOV HB2850 - 104th General Assembly Rep. Maurice A. West, IIFiled: 3/24/2025   10400HB2850ham002LRB104 12120 BAB 24223 a1AMENDMENT TO HOUSE BILL 2850 2    AMENDMENT NO. ______. Amend House Bill 2850 on page 17, 3immediately below line 17, by inserting the following:4    "The requirements for repayment options in subsection (k) 5of Section 5-30 apply to this Section."; and 6on page 22, line 7, by replacing "paragraph (7)" with 7"subsection (b)"; and 8on page 22, immediately below line 12, by inserting the 9following:  10    "(110 ILCS 992/7-41 new)11    Sec. 7-41. Refinancing. Before offering a person an EISA 12that is being used to refinance an existing loan, an EISA 13provider shall provide the person with a disclosure explaining 14that the benefits and protections applicable to the existing 15loan may be lost due to the refinancing. The disclosure must be   10400HB2850ham002- 2 -LRB104 12120 BAB 24223 a1provided on a one-page information sheet in at least 12-point 2type and must be written in simple, clear, understandable, and 3easily readable language."; and 4on page 22, immediately below line 19, by inserting the 5following:6    "(c) The requirements for total and permanent disability 7of a borrower or cosigner in subsections (b) through (e) of 8Section 5-85 that apply to borrowers apply to this Section."; 9and 10on page 27, line 2, by replacing "submit." with "submit;"; and 11on page 32, line 2, by deleting "or cosigner".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB2850 ILGA.GOV HB2850 - 104th General Assembly Rep. Maurice A. West, IIFiled: 3/24/2025   10400HB2850ham002LRB104 12120 BAB 24223 a1AMENDMENT TO HOUSE BILL 2850 2    AMENDMENT NO. ______. Amend House Bill 2850 on page 17, 3immediately below line 17, by inserting the following:4    "The requirements for repayment options in subsection (k) 5of Section 5-30 apply to this Section."; and 6on page 22, line 7, by replacing "paragraph (7)" with 7"subsection (b)"; and 8on page 22, immediately below line 12, by inserting the 9following:  10    "(110 ILCS 992/7-41 new)11    Sec. 7-41. Refinancing. Before offering a person an EISA 12that is being used to refinance an existing loan, an EISA 13provider shall provide the person with a disclosure explaining 14that the benefits and protections applicable to the existing 15loan may be lost due to the refinancing. The disclosure must be   10400HB2850ham002- 2 -LRB104 12120 BAB 24223 a1provided on a one-page information sheet in at least 12-point 2type and must be written in simple, clear, understandable, and 3easily readable language."; and 4on page 22, immediately below line 19, by inserting the 5following:6    "(c) The requirements for total and permanent disability 7of a borrower or cosigner in subsections (b) through (e) of 8Section 5-85 that apply to borrowers apply to this Section."; 9and 10on page 27, line 2, by replacing "submit." with "submit;"; and 11on page 32, line 2, by deleting "or cosigner".

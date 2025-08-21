@@ -1,0 +1,16 @@
+Title: Full Text of SB2301
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB2301 ILGA.GOV SB2301 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB2301 Introduced 2/7/2025, by Sen. Cristina Castro SYNOPSIS AS INTRODUCED: 30 ILCS 500/30-17    Amends the Illinois Procurement Code. In provisions concerning job order contracting, provides that public institutions of higher education may procure construction contracts via job order contracting through the use of competitive sealed bidding.LRB104 10188 HLH 20260 b  A BILL FOR SB2301LRB104 10188 HLH 20260 b1    AN ACT concerning finance. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Illinois Procurement Code is amended by 5changing Section 30-17 as follows: 6    (30 ILCS 500/30-17)7    Sec. 30-17. Job order contracting.8    (a) In this Section:9    "Indefinite quantity contract" means a contract for an 10indefinite quantity of services for a fixed time or for a job 11order contract.12    "Job order contracting" means an indefinite quantity 13contract pursuant to which a contractor may perform an ongoing 14series of individual tasks at different facilities, locations, 15and sites under the jurisdiction of a State construction 16agency.17    (b) Construction agencies, including public institutions 18of higher education, may procure construction contracts via 19job order contracting through the use of competitive sealed 20bidding in accordance with Section 30-15.21(Source: P.A. 103-865, eff. 1-1-25.)
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB2301 ILGA.GOV SB2301 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB2301 Introduced 2/7/2025, by Sen. Cristina Castro SYNOPSIS AS INTRODUCED: 30 ILCS 500/30-17    Amends the Illinois Procurement Code. In provisions concerning job order contracting, provides that public institutions of higher education may procure construction contracts via job order contracting through the use of competitive sealed bidding.LRB104 10188 HLH 20260 b  A BILL FOR SB2301LRB104 10188 HLH 20260 b1    AN ACT concerning finance. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Illinois Procurement Code is amended by 5changing Section 30-17 as follows: 6    (30 ILCS 500/30-17)7    Sec. 30-17. Job order contracting.8    (a) In this Section:9    "Indefinite quantity contract" means a contract for an 10indefinite quantity of services for a fixed time or for a job 11order contract.12    "Job order contracting" means an indefinite quantity 13contract pursuant to which a contractor may perform an ongoing 14series of individual tasks at different facilities, locations, 15and sites under the jurisdiction of a State construction 16agency.17    (b) Construction agencies, including public institutions 18of higher education, may procure construction contracts via 19job order contracting through the use of competitive sealed 20bidding in accordance with Section 30-15.21(Source: P.A. 103-865, eff. 1-1-25.)

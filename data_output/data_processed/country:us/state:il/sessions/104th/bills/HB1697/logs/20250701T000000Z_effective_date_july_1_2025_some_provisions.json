@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Effective Date July 1, 2025;  some provisions",
+    "date": "2025-07-01",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HB1697"
+}

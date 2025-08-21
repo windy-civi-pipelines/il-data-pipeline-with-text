@@ -1,0 +1,16 @@
+Title: Full Text of HB1321
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB1321 ILGA.GOV HB1321 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB1321 Introduced 1/28/2025, by Rep. Dan Ugaste and Tony M. McCombie SYNOPSIS AS INTRODUCED: 35 ILCS 200/30-32 new    Amends the Property Tax Code. Provides that no taxing district may hold more than 150% of the previous levy year's property tax collections in cash or cash-equivalent assets. Provides that excess amounts shall be refunded to taxpayers. Effective immediately.LRB104 03217 HLH 13238 b  A BILL FOR HB1321LRB104 03217 HLH 13238 b1    AN ACT concerning local government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Property Tax Code is amended by adding 5Section 30-32 as follows: 6    (35 ILCS 200/30-32 new)7    Sec. 30-32. Limit on surplus funds. No taxing district may 8hold more than 150% of the previous levy year's property tax 9collections in cash or cash-equivalent assets. If, at the end 10of any fiscal quarter, the taxing district has more than that 11amount in cash or cash-equivalent assets, then the excess 12amount shall be refunded to taxpayers pro rata based on each 13taxpayer's percentage of the total levy for the previous year. 14    Section 99. Effective date. This Act takes effect upon 15becoming law.
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB1321 ILGA.GOV HB1321 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB1321 Introduced 1/28/2025, by Rep. Dan Ugaste and Tony M. McCombie SYNOPSIS AS INTRODUCED: 35 ILCS 200/30-32 new    Amends the Property Tax Code. Provides that no taxing district may hold more than 150% of the previous levy year's property tax collections in cash or cash-equivalent assets. Provides that excess amounts shall be refunded to taxpayers. Effective immediately.LRB104 03217 HLH 13238 b  A BILL FOR HB1321LRB104 03217 HLH 13238 b1    AN ACT concerning local government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Property Tax Code is amended by adding 5Section 30-32 as follows: 6    (35 ILCS 200/30-32 new)7    Sec. 30-32. Limit on surplus funds. No taxing district may 8hold more than 150% of the previous levy year's property tax 9collections in cash or cash-equivalent assets. If, at the end 10of any fiscal quarter, the taxing district has more than that 11amount in cash or cash-equivalent assets, then the excess 12amount shall be refunded to taxpayers pro rata based on each 13taxpayer's percentage of the total levy for the previous year. 14    Section 99. Effective date. This Act takes effect upon 15becoming law.

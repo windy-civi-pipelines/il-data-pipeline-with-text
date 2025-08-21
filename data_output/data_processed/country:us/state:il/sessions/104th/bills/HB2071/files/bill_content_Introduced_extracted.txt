@@ -1,0 +1,16 @@
+Title: Full Text of HB2071
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB2071 ILGA.GOV HB2071 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB2071 Introduced 2/4/2025, by Rep. Tony M. McCombie SYNOPSIS AS INTRODUCED: 20 ILCS 65/20-1    Amends the Data Governance and Organization to Support Equity and Racial Justice Act. Makes a technical change in a Section concerning the short title.LRB104 11538 SPS 21627 b  A BILL FOR HB2071LRB104 11538 SPS 21627 b1    AN ACT concerning State government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Data Governance and Organization to Support 5Equity and Racial Justice Act is amended by changing Section 620-1 as follows: 7    (20 ILCS 65/20-1)8    Sec. 20-1. Short title. This Article may be cited as the 9the Data Governance and Organization to Support Equity and 10Racial Justice Act. References in this Article to "this Act" 11mean this Article.12(Source: P.A. 101-654, eff. 3-8-21.)
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB2071 ILGA.GOV HB2071 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB2071 Introduced 2/4/2025, by Rep. Tony M. McCombie SYNOPSIS AS INTRODUCED: 20 ILCS 65/20-1    Amends the Data Governance and Organization to Support Equity and Racial Justice Act. Makes a technical change in a Section concerning the short title.LRB104 11538 SPS 21627 b  A BILL FOR HB2071LRB104 11538 SPS 21627 b1    AN ACT concerning State government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Data Governance and Organization to Support 5Equity and Racial Justice Act is amended by changing Section 620-1 as follows: 7    (20 ILCS 65/20-1)8    Sec. 20-1. Short title. This Article may be cited as the 9the Data Governance and Organization to Support Equity and 10Racial Justice Act. References in this Article to "this Act" 11mean this Article.12(Source: P.A. 101-654, eff. 3-8-21.)

@@ -1,0 +1,84 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4105",
+  "title": "ARREST-IMMIGRATION STATUS",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Code of Criminal Procedure of 1963. Provides that notwithstanding any other law to the contrary, a peace officer who arrests a person for a felony and reasonably believes that the person arrested is residing in the United States in violation of the federal Immigration and Nationality Act, may inquire about the immigration status of the person arrested. Provides that the peace officer may notify U.S. Immigration and Customs Enforcement of the person's arrest and pending prosecution when the peace officer reasonably believes that the person arrested for a felony is residing in the United States in violation of the federal Immigration and Nationality Act. Provides that upon request from any federal agency, law enforcement agencies shall provide known immigration status of any person arrested or charged with a felony. Amends the Illinois TRUST Act to make conforming changes."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Tom Weber",
+      "date": "2025-08-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Tom Weber",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tom Weber\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4105.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205346&DocName=10400HB4105&DocNum=4105&DocTypeID=HB&LegID=164059&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=4105&DocTypeID=HB&LegId=164059&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4105&GAID=18&DocTypeID=HB&LegId=164059&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  }
+}

@@ -1,0 +1,16 @@
+Title: Full Text of SB1773
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 002
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB1773 ILGA.GOV SB1773 - 104th General Assembly Sen. Julie A. MorrisonFiled: 3/28/2025   10400SB1773sam002LRB104 03029 RLC 24614 a1AMENDMENT TO SENATE BILL 1773 2    AMENDMENT NO. ______. Amend Senate Bill 1773 on page 1, 3line 5, by inserting "and by adding Section 309.1" after 4"208"; and 5on page 102, by inserting immediately below line 10 the 6following: 7    "(720 ILCS 570/309.1 new)8    Sec. 309.1. Veterinarian; xylazine. Notwithstanding the 9scheduling of xylazine as a Schedule III controlled substance, 10the prohibition on delivery or possession with intent to 11deliver xylazine does not apply to licensed veterinarians who 12lawfully prescribe, dispense, administer, acquire, or use any 13controlled substance, including xylazine, while acting in the 14course of their professional practice, in good faith, and in 15accordance with generally accepted medical standards.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB1773 ILGA.GOV SB1773 - 104th General Assembly Sen. Julie A. MorrisonFiled: 3/28/2025   10400SB1773sam002LRB104 03029 RLC 24614 a1AMENDMENT TO SENATE BILL 1773 2    AMENDMENT NO. ______. Amend Senate Bill 1773 on page 1, 3line 5, by inserting "and by adding Section 309.1" after 4"208"; and 5on page 102, by inserting immediately below line 10 the 6following: 7    "(720 ILCS 570/309.1 new)8    Sec. 309.1. Veterinarian; xylazine. Notwithstanding the 9scheduling of xylazine as a Schedule III controlled substance, 10the prohibition on delivery or possession with intent to 11deliver xylazine does not apply to licensed veterinarians who 12lawfully prescribe, dispense, administer, acquire, or use any 13controlled substance, including xylazine, while acting in the 14course of their professional practice, in good faith, and in 15accordance with generally accepted medical standards.".

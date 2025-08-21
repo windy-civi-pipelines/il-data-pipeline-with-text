@@ -1,0 +1,16 @@
+Title: Full Text of HB1540
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB1540 ILGA.GOV HB1540 - 104th General Assembly Rep. Tony M. McCombieFiled: 4/4/2025   10400HB1540ham001LRB104 07338 RLC 24681 a1AMENDMENT TO HOUSE BILL 1540 2    AMENDMENT NO. ______. Amend House Bill 1540 by replacing 3line 21 on page 7 through line 4 on page 8 with the following:4    "(d-1) A pharmacist shall require positive identification 5of an individual to whom controlled substances are dispensed 6or delivered if the individual is not known to the pharmacist 7or pharmacy employees, except if positive identification is 8not available and a pharmacist exercising professional 9judgment determines that a delay in dispensing the controlled 10substance may be detrimental to a patient.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB1540 ILGA.GOV HB1540 - 104th General Assembly Rep. Tony M. McCombieFiled: 4/4/2025   10400HB1540ham001LRB104 07338 RLC 24681 a1AMENDMENT TO HOUSE BILL 1540 2    AMENDMENT NO. ______. Amend House Bill 1540 by replacing 3line 21 on page 7 through line 4 on page 8 with the following:4    "(d-1) A pharmacist shall require positive identification 5of an individual to whom controlled substances are dispensed 6or delivered if the individual is not known to the pharmacist 7or pharmacy employees, except if positive identification is 8not available and a pharmacist exercising professional 9judgment determines that a delay in dispensing the controlled 10substance may be detrimental to a patient.".

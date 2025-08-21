@@ -1,0 +1,16 @@
+Title: Full Text of HB3040
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 002
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB3040 ILGA.GOV HB3040 - 104th General Assembly Rep. Nabeela SyedFiled: 4/2/2025   10400HB3040ham002LRB104 10576 LNS 24528 a1AMENDMENT TO HOUSE BILL 30402    AMENDMENT NO. ______. Amend House Bill 3040, AS AMENDED, 3with reference to page and line numbers of House Amendment No. 41, on page 3, by replacing lines 4 and 5 with the following:5    "(c) The Statewide Data Dashboard may not disaggregate 6data to a level that would allow the identification of 7individual students or disclose their personally identifying 8information.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB3040 ILGA.GOV HB3040 - 104th General Assembly Rep. Nabeela SyedFiled: 4/2/2025   10400HB3040ham002LRB104 10576 LNS 24528 a1AMENDMENT TO HOUSE BILL 30402    AMENDMENT NO. ______. Amend House Bill 3040, AS AMENDED, 3with reference to page and line numbers of House Amendment No. 41, on page 3, by replacing lines 4 and 5 with the following:5    "(c) The Statewide Data Dashboard may not disaggregate 6data to a level that would allow the identification of 7individual students or disclose their personally identifying 8information.".

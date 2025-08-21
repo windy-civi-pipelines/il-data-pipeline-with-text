@@ -1,0 +1,16 @@
+Title: Full Text of HB1184
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB1184 ILGA.GOV HB1184 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB1184 Introduced 1/9/2025, by Rep. Jay Hoffman SYNOPSIS AS INTRODUCED: 70 ILCS 705/1.01  from Ch. 127 1/2, par. 21a    Amends the Fire Protection District Act. Makes a technical change in a Section concerning an election against organization as a fire protection district. LRB104 07307 RTM 17346 b  A BILL FOR HB1184LRB104 07307 RTM 17346 b1    AN ACT concerning local government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly:  4    Section 5. The Fire Protection District Act is amended by 5changing Section 1.01 as follows: 6    (70 ILCS 705/1.01)  (from Ch. 127 1/2, par. 21a)7    Sec. 1.01. Where an election has been held to organize any 8territory as a Fire Protection District under this Act, at 9which election a majority of the the votes cast in the 10territory proposed to be organized was against the 11organization of a Fire Protection District, or in case a city, 12village or incorporated town is in the territory sought to be 13organized, then if the proposition failed to receive a 14majority of the votes cast either in such city, village or 15incorporated town or in the territory outside of such city, 16village or incorporated town, then no subsequent election 17shall be held to organize such territory, or any part thereof, 18into a Fire Protection District for a period of one year after 19such election.20(Source: P.A. 84-1421.)
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB1184 ILGA.GOV HB1184 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB1184 Introduced 1/9/2025, by Rep. Jay Hoffman SYNOPSIS AS INTRODUCED: 70 ILCS 705/1.01  from Ch. 127 1/2, par. 21a    Amends the Fire Protection District Act. Makes a technical change in a Section concerning an election against organization as a fire protection district. LRB104 07307 RTM 17346 b  A BILL FOR HB1184LRB104 07307 RTM 17346 b1    AN ACT concerning local government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly:  4    Section 5. The Fire Protection District Act is amended by 5changing Section 1.01 as follows: 6    (70 ILCS 705/1.01)  (from Ch. 127 1/2, par. 21a)7    Sec. 1.01. Where an election has been held to organize any 8territory as a Fire Protection District under this Act, at 9which election a majority of the the votes cast in the 10territory proposed to be organized was against the 11organization of a Fire Protection District, or in case a city, 12village or incorporated town is in the territory sought to be 13organized, then if the proposition failed to receive a 14majority of the votes cast either in such city, village or 15incorporated town or in the territory outside of such city, 16village or incorporated town, then no subsequent election 17shall be held to organize such territory, or any part thereof, 18into a Fire Protection District for a period of one year after 19such election.20(Source: P.A. 84-1421.)

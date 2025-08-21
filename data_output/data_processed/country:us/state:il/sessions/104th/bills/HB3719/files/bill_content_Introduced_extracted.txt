@@ -1,0 +1,16 @@
+Title: Full Text of HB3719
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB3719 ILGA.GOV HB3719 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB3719 Introduced 2/18/2025, by Rep. La Shawn K. Ford SYNOPSIS AS INTRODUCED: 50 ILCS 750/85 new    Amends the Emergency Telephone System Act. Provides that a law enforcement agency that encrypts police scanner transmissions must provide, by license or otherwise, real-time access to those transmissions to broadcast stations, broadcasting stations, radio broadcast stations, and newspapers. Effective January 1, 2026.LRB104 03395 RTM 13417 b  A BILL FOR HB3719LRB104 03395 RTM 13417 b1    AN ACT concerning local government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Emergency Telephone System Act is amended 5by adding Section 85 as follows: 6    (50 ILCS 750/85 new)7    Sec. 85. Encrypted police scanner transmissions. A law 8enforcement agency that encrypts police scanner transmissions 9must provide, by license or otherwise, real-time access to 10those transmissions to broadcast stations, broadcasting 11stations, and radio broadcast stations, as those terms are 12defined in 47 U.S.C. 153, and to newspapers, as that term is 13described in Section 5 of the Notice By Publication Act. 14    Section 99. Effective date. This Act takes effect January 151, 2026.
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB3719 ILGA.GOV HB3719 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB3719 Introduced 2/18/2025, by Rep. La Shawn K. Ford SYNOPSIS AS INTRODUCED: 50 ILCS 750/85 new    Amends the Emergency Telephone System Act. Provides that a law enforcement agency that encrypts police scanner transmissions must provide, by license or otherwise, real-time access to those transmissions to broadcast stations, broadcasting stations, radio broadcast stations, and newspapers. Effective January 1, 2026.LRB104 03395 RTM 13417 b  A BILL FOR HB3719LRB104 03395 RTM 13417 b1    AN ACT concerning local government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Emergency Telephone System Act is amended 5by adding Section 85 as follows: 6    (50 ILCS 750/85 new)7    Sec. 85. Encrypted police scanner transmissions. A law 8enforcement agency that encrypts police scanner transmissions 9must provide, by license or otherwise, real-time access to 10those transmissions to broadcast stations, broadcasting 11stations, and radio broadcast stations, as those terms are 12defined in 47 U.S.C. 153, and to newspapers, as that term is 13described in Section 5 of the Notice By Publication Act. 14    Section 99. Effective date. This Act takes effect January 151, 2026.

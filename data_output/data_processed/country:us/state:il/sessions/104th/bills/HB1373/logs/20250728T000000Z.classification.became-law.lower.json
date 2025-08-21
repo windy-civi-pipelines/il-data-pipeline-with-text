@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Public Act . . . . . . . . . 104-0030",
+    "date": "2025-07-28",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB1373"
+}

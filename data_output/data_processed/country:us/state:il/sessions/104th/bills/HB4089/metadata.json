@@ -1,0 +1,84 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4089",
+  "title": "INC TX-ESTIMATED PAYMENTS",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Illinois Income Tax Act. Provides that, for taxable years ending on or after December 31, 2026, eligible taxpayers that are not corporations are required to pay estimated tax if the amount payable as estimated tax can reasonably be expected to be more than $25,000 (currently, $1,000). Effective immediately."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Travis Weaver",
+      "date": "2025-07-24",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Travis Weaver",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Travis Weaver\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4089.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205300&DocName=10400HB4089&DocNum=4089&DocTypeID=HB&LegID=164013&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=4089&DocTypeID=HB&LegId=164013&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4089&GAID=18&DocTypeID=HB&LegId=164013&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  }
+}

@@ -1,0 +1,16 @@
+Title: Full Text of HB1811
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB1811 ILGA.GOV HB1811 - 104th General Assembly Rep. Natalie A. ManleyFiled: 4/7/2025   10400HB1811ham001LRB104 06256 RLC 25051 a1AMENDMENT TO HOUSE BILL 1811 2    AMENDMENT NO. ______. Amend House Bill 1811 on page 5, by 3replacing lines 2 through 8 with the following:4    "(d) Interstate data sharing agreements shall be mutual. 5The Department shall only share data if the reciprocal state 6provides the opportunity to access data from the reciprocating 7state to licensed health care entities and application vendors 8regardless of their method of connection to the Prescription 9Monitoring Program for interstate data sharing as defined in 10administrative rule.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB1811 ILGA.GOV HB1811 - 104th General Assembly Rep. Natalie A. ManleyFiled: 4/7/2025   10400HB1811ham001LRB104 06256 RLC 25051 a1AMENDMENT TO HOUSE BILL 1811 2    AMENDMENT NO. ______. Amend House Bill 1811 on page 5, by 3replacing lines 2 through 8 with the following:4    "(d) Interstate data sharing agreements shall be mutual. 5The Department shall only share data if the reciprocal state 6provides the opportunity to access data from the reciprocating 7state to licensed health care entities and application vendors 8regardless of their method of connection to the Prescription 9Monitoring Program for interstate data sharing as defined in 10administrative rule.".

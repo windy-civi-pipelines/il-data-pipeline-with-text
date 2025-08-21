@@ -1,0 +1,16 @@
+Title: Full Text of HB1914
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB1914 ILGA.GOV HB1914 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB1914 Introduced 1/29/2025, by Rep. Bradley Fritts SYNOPSIS AS INTRODUCED: 625 ILCS 5/6-508.2 new    Amends the Illinois Vehicle Code. Provides that a commercial driver training school in the State may administer the CDL test to a student who has successfully completed a commercial driver's education course. Provides that any testing administered must satisfy the specified guidelines required under federal and State law. Requires the Secretary of State to adopt rules.LRB104 05993 LNS 16026 b  A BILL FOR HB1914LRB104 05993 LNS 16026 b1    AN ACT concerning transportation. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Illinois Vehicle Code is amended by adding 5Section 6-508.2 as follows: 6    (625 ILCS 5/6-508.2 new)7    Sec. 6-508.2. Commercial driver's license (CDL); third 8party testing.9    (a) A commercial driver training school in this State may, 10under to 49 CFR 383.75, 384.228, and 384.229, administer the 11CDL test to a student who has successfully completed a 12commercial driver's education course. Any testing administered 13under this Section must satisfy the requirements under Section 146-508.15    (b) The Secretary of State shall adopt rules to implement 16this Section.
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB1914 ILGA.GOV HB1914 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB1914 Introduced 1/29/2025, by Rep. Bradley Fritts SYNOPSIS AS INTRODUCED: 625 ILCS 5/6-508.2 new    Amends the Illinois Vehicle Code. Provides that a commercial driver training school in the State may administer the CDL test to a student who has successfully completed a commercial driver's education course. Provides that any testing administered must satisfy the specified guidelines required under federal and State law. Requires the Secretary of State to adopt rules.LRB104 05993 LNS 16026 b  A BILL FOR HB1914LRB104 05993 LNS 16026 b1    AN ACT concerning transportation. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Illinois Vehicle Code is amended by adding 5Section 6-508.2 as follows: 6    (625 ILCS 5/6-508.2 new)7    Sec. 6-508.2. Commercial driver's license (CDL); third 8party testing.9    (a) A commercial driver training school in this State may, 10under to 49 CFR 383.75, 384.228, and 384.229, administer the 11CDL test to a student who has successfully completed a 12commercial driver's education course. Any testing administered 13under this Section must satisfy the requirements under Section 146-508.15    (b) The Secretary of State shall adopt rules to implement 16this Section.

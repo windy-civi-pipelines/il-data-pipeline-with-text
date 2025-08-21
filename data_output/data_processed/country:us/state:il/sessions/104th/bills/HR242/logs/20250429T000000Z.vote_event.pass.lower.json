@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Consumer Protection",
+  "motion_classification": [],
+  "start_date": "2025-04-29",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "25aa58e0-7e18-11f0-9290-a2330a6b74b7",
+  "bill_action": null,
+  "bill_identifier": "HR242",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Hammond, Norine K",
+      "voter_id": "~{\"name\": \"Hammond, Norine K\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mah, Theresa",
+      "voter_id": "~{\"name\": \"Mah, Theresa\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hernandez, Elizabeth \"Lisa\"",
+      "voter_id": "~{\"name\": \"Hernandez, Elizabeth \\\"Lisa\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Olickal, Kevin John",
+      "voter_id": "~{\"name\": \"Olickal, Kevin John\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ness, Suzanne M",
+      "voter_id": "~{\"name\": \"Ness, Suzanne M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Weaver, Travis",
+      "voter_id": "~{\"name\": \"Weaver, Travis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ort\u00edz, Aar\u00f3n M",
+      "voter_id": "~{\"name\": \"Ort\\u00edz, Aar\\u00f3n M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Weber, Tom",
+      "voter_id": "~{\"name\": \"Weber, Tom\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Buckner, Kam",
+      "voter_id": "~{\"name\": \"Buckner, Kam\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HR0242_43664.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HR0242_43664.pdf"
+}

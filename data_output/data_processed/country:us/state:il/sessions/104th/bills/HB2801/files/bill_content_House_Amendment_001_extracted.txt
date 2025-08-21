@@ -1,0 +1,16 @@
+Title: Full Text of HB2801
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB2801 ILGA.GOV HB2801 - 104th General Assembly Rep. Tony M. McCombieFiled: 3/24/2025   10400HB2801ham001LRB104 08192 LNS 24382 a1AMENDMENT TO HOUSE BILL 2801 2    AMENDMENT NO. ______. Amend House Bill 2801 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The School Code is amended by adding Section 52-3.206 as follows: 6    (105 ILCS 5/2-3.206 new)7    Sec. 2-3.206. Career and technical education opportunity 8list. By July 1, 2026, the State Board of Education shall 9provide a form, posted publicly on its website, for 10organizations to submit opportunities for high school students 11to participate in externships, internships, or volunteer work 12related to career and technical education career pathways. The 13opportunities submitted shall be reviewed and approved by the 14State Board of Education. The State Board of Education shall 15post a list of approved opportunities on its website and share 16the list with all school districts annually.  10400HB2801ham001- 2 -LRB104 08192 LNS 24382 a1    By July 1, 2027 and by July 1 each year thereafter, the 2State Board of Education shall compile and publish a report on 3its website listing the total number of organizations that 4submitted opportunities for high school students the previous 5year as provided in this Section. The report shall be 6disaggregated by the career areas under which each opportunity 7fell.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB2801 ILGA.GOV HB2801 - 104th General Assembly Rep. Tony M. McCombieFiled: 3/24/2025   10400HB2801ham001LRB104 08192 LNS 24382 a1AMENDMENT TO HOUSE BILL 2801 2    AMENDMENT NO. ______. Amend House Bill 2801 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The School Code is amended by adding Section 52-3.206 as follows: 6    (105 ILCS 5/2-3.206 new)7    Sec. 2-3.206. Career and technical education opportunity 8list. By July 1, 2026, the State Board of Education shall 9provide a form, posted publicly on its website, for 10organizations to submit opportunities for high school students 11to participate in externships, internships, or volunteer work 12related to career and technical education career pathways. The 13opportunities submitted shall be reviewed and approved by the 14State Board of Education. The State Board of Education shall 15post a list of approved opportunities on its website and share 16the list with all school districts annually.  10400HB2801ham001- 2 -LRB104 08192 LNS 24382 a1    By July 1, 2027 and by July 1 each year thereafter, the 2State Board of Education shall compile and publish a report on 3its website listing the total number of organizations that 4submitted opportunities for high school students the previous 5year as provided in this Section. The report shall be 6disaggregated by the career areas under which each opportunity 7fell.".

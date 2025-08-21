@@ -1,0 +1,84 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4094",
+  "title": "UTILITIES-ROGUE COMPONENTS",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Creates the Rogue Component Installation Prevention Act. Provides that, on and after the effective date of the Act, no public utility, unit of local government, or school district shall install components manufactured by a foreign country of concern on a renewable energy device in the State. Requires every distributor, manufacturer, or seller of a renewable energy device in the State to report the characteristic contents of any component installed on the renewable energy device, including the date of manufacture, the country of origin, and the location of the company that manufactured the component, to the United States Department of Homeland Security, the United States Department of Energy, the Illinois Power Agency, the Illinois Emergency Management Agency and Office of Homeland Security, and the Illinois State Police. Defines terms."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Chris Miller",
+      "date": "2025-08-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Chris Miller",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Chris Miller\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4094.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205317&DocName=10400HB4094&DocNum=4094&DocTypeID=HB&LegID=164030&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=4094&DocTypeID=HB&LegId=164030&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4094&GAID=18&DocTypeID=HB&LegId=164030&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  }
+}

@@ -1,0 +1,16 @@
+Title: Full Text of SB0049
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB0049 ILGA.GOV SB0049 - 104th General Assembly Sen. Sue RezinFiled: 3/12/2025   10400SB0049sam001LRB104 03753 SPS 22806 a1AMENDMENT TO SENATE BILL 49 2    AMENDMENT NO. ______. Amend Senate Bill 49 on page 1, 3immediately below line 16, by inserting the following:4    ""High-impact social media company" does not include any 5online product or service that:6        (1) exclusively provides electronic mail or direct 7    messaging services; or8        (2) primarily consists of news, sports, entertainment, 9    interactive video games, electronic commerce, or content 10    that is preselected by the provider for which any chat, 11    comments, or interactive functionality is incidental to, 12    directly related to, or dependent on the provision of that 13    content.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB0049 ILGA.GOV SB0049 - 104th General Assembly Sen. Sue RezinFiled: 3/12/2025   10400SB0049sam001LRB104 03753 SPS 22806 a1AMENDMENT TO SENATE BILL 49 2    AMENDMENT NO. ______. Amend Senate Bill 49 on page 1, 3immediately below line 16, by inserting the following:4    ""High-impact social media company" does not include any 5online product or service that:6        (1) exclusively provides electronic mail or direct 7    messaging services; or8        (2) primarily consists of news, sports, entertainment, 9    interactive video games, electronic commerce, or content 10    that is preselected by the provider for which any chat, 11    comments, or interactive functionality is incidental to, 12    directly related to, or dependent on the provision of that 13    content.".

@@ -1,0 +1,16 @@
+Title: Full Text of HB2994
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 002
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB2994 ILGA.GOV HB2994 - 104th General Assembly Rep. Michelle MussmanFiled: 3/26/2025   10400HB2994ham002LRB104 11359 JRC 24411 a1AMENDMENT TO HOUSE BILL 2994 2    AMENDMENT NO. ______. Amend House Bill 2994, AS AMENDED, 3with reference to page and line numbers of House Amendment No. 41, on page 2, by replacing lines 10 through 17 with the 5following:6        "(3.5) the parent or guardian of a minor, regardless 7    of the minor's age, who is involved in special education 8    services under Section 14-1.11 of the School Code, if the 9    parent or guardian consented to mental health or 10    developmental services on behalf of the recipient; or the 11    designated representative of a student over the age of 18 12    involved in special education services under Section 13    14-6.10 of the School Code the personal representative 14    under HIPAA, 45 CFR 164.502(g), of a recipient regardless 15    of the age of the recipient;".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB2994 ILGA.GOV HB2994 - 104th General Assembly Rep. Michelle MussmanFiled: 3/26/2025   10400HB2994ham002LRB104 11359 JRC 24411 a1AMENDMENT TO HOUSE BILL 2994 2    AMENDMENT NO. ______. Amend House Bill 2994, AS AMENDED, 3with reference to page and line numbers of House Amendment No. 41, on page 2, by replacing lines 10 through 17 with the 5following:6        "(3.5) the parent or guardian of a minor, regardless 7    of the minor's age, who is involved in special education 8    services under Section 14-1.11 of the School Code, if the 9    parent or guardian consented to mental health or 10    developmental services on behalf of the recipient; or the 11    designated representative of a student over the age of 18 12    involved in special education services under Section 13    14-6.10 of the School Code the personal representative 14    under HIPAA, 45 CFR 164.502(g), of a recipient regardless 15    of the age of the recipient;".

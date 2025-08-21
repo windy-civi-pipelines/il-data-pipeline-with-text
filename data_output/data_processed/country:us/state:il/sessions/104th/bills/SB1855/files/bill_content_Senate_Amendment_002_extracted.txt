@@ -1,0 +1,16 @@
+Title: Full Text of SB1855
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 002
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB1855 ILGA.GOV SB1855 - 104th General Assembly Sen. Christopher BeltFiled: 5/30/2025   10400SB1855sam002LRB104 06339 SPS 27073 a1AMENDMENT TO SENATE BILL 18552    AMENDMENT NO. ______. Amend Senate Bill 1855, AS AMENDED, 3by replacing everything after the enacting clause with the 4following: 5    "Section 5. The Illinois Municipal Code is amended by 6adding Section 11-1-11.5 as follows: 7    (65 ILCS 5/11-1-11.5 new)8    Sec. 11-1-11.5. Outside law enforcement compensation. A 9municipality shall reimburse a law enforcement agency, as 10defined by the Illinois Police Training Act, for public safety 11services provided by that law enforcement agency if (i) the 12municipality has or has had a local law enforcement agency and 13(ii) the municipality either ceases to provide law enforcement 14services for that incorporated area or substantially reduces 15the amount of law enforcement services provided for that 16incorporated area. The law enforcement agency shall conduct a   10400SB1855sam002- 2 -LRB104 06339 SPS 27073 a1cost-analysis study to determine the cost to provide public 2services to the municipality. The municipality shall reimburse 3the law enforcement agency in the amount determined by the 4cost-analysis study. This Section does not apply to any 5municipality located in a county with a population of more 6than 1,000,000.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB1855 ILGA.GOV SB1855 - 104th General Assembly Sen. Christopher BeltFiled: 5/30/2025   10400SB1855sam002LRB104 06339 SPS 27073 a1AMENDMENT TO SENATE BILL 18552    AMENDMENT NO. ______. Amend Senate Bill 1855, AS AMENDED, 3by replacing everything after the enacting clause with the 4following: 5    "Section 5. The Illinois Municipal Code is amended by 6adding Section 11-1-11.5 as follows: 7    (65 ILCS 5/11-1-11.5 new)8    Sec. 11-1-11.5. Outside law enforcement compensation. A 9municipality shall reimburse a law enforcement agency, as 10defined by the Illinois Police Training Act, for public safety 11services provided by that law enforcement agency if (i) the 12municipality has or has had a local law enforcement agency and 13(ii) the municipality either ceases to provide law enforcement 14services for that incorporated area or substantially reduces 15the amount of law enforcement services provided for that 16incorporated area. The law enforcement agency shall conduct a   10400SB1855sam002- 2 -LRB104 06339 SPS 27073 a1cost-analysis study to determine the cost to provide public 2services to the municipality. The municipality shall reimburse 3the law enforcement agency in the amount determined by the 4cost-analysis study. This Section does not apply to any 5municipality located in a county with a population of more 6than 1,000,000.".

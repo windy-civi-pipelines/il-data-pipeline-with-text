@@ -1,0 +1,16 @@
+Title: Full Text of SB1672
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB1672 ILGA.GOV SB1672 - 104th General Assembly Sen. Christopher BeltFiled: 3/13/2025   10400SB1672sam001LRB104 08071 LNS 23801 a1AMENDMENT TO SENATE BILL 1672 2    AMENDMENT NO. ______. Amend Senate Bill 1672 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The School Code is amended by adding Section 510-20.53a as follows: 6    (105 ILCS 5/10-20.53a new)7    Sec. 10-20.53a. Early literacy screener reporting.8    (a) On or before July 1, 2026, each school district that 9serves students in any of grades kindergarten through 3 shall 10report to the State Board of Education the following 11information:12        (1) any early literacy screeners used by the district 13    in grades kindergarten through 3, including which skill 14    areas the screener is intended to identify;15        (2) the grade level of students who are administered 16    the early literacy screeners under paragraph (1); and  10400SB1672sam001- 2 -LRB104 08071 LNS 23801 a1        (3) the frequency with which the early literacy 2    screeners under paragraph (1) are administered to 3    students, by grade, each year.4    (b) On or before January 1, 2027, the State Board of 5Education shall file a report with the General Assembly 6outlining the data received under subsection (a). This report 7shall be posted publicly on the State Board of Education's 8Internet website no later than January 1, 2027.9    (c) This Section is repealed on July 1, 2027.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB1672 ILGA.GOV SB1672 - 104th General Assembly Sen. Christopher BeltFiled: 3/13/2025   10400SB1672sam001LRB104 08071 LNS 23801 a1AMENDMENT TO SENATE BILL 1672 2    AMENDMENT NO. ______. Amend Senate Bill 1672 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The School Code is amended by adding Section 510-20.53a as follows: 6    (105 ILCS 5/10-20.53a new)7    Sec. 10-20.53a. Early literacy screener reporting.8    (a) On or before July 1, 2026, each school district that 9serves students in any of grades kindergarten through 3 shall 10report to the State Board of Education the following 11information:12        (1) any early literacy screeners used by the district 13    in grades kindergarten through 3, including which skill 14    areas the screener is intended to identify;15        (2) the grade level of students who are administered 16    the early literacy screeners under paragraph (1); and  10400SB1672sam001- 2 -LRB104 08071 LNS 23801 a1        (3) the frequency with which the early literacy 2    screeners under paragraph (1) are administered to 3    students, by grade, each year.4    (b) On or before January 1, 2027, the State Board of 5Education shall file a report with the General Assembly 6outlining the data received under subsection (a). This report 7shall be posted publicly on the State Board of Education's 8Internet website no later than January 1, 2027.9    (c) This Section is repealed on July 1, 2027.".

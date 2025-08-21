@@ -1,0 +1,16 @@
+Title: Full Text of HB2977
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB2977 ILGA.GOV HB2977 - 104th General Assembly Rep. Mary GillFiled: 3/27/2025   10400HB2977ham001LRB104 11872 RTM 24544 a1AMENDMENT TO HOUSE BILL 2977 2    AMENDMENT NO. ______. Amend House Bill 2977 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Illinois Municipal Code is amended by 5adding Section 11-6.1.5 as follows: 6    (65 ILCS 5/11-6.1.5 new)7    Sec. 11-6.1.5. Minimum funding requirements for 8ambulances, fire engines, and other vehicles used to provide 9emergency services. A municipality with a population of more 10than 500,000 must set aside, in a dedicated account, 10% of the 11funds the municipality receives from an insurer on account of 12ambulance or fire services provided by the municipality. The 13municipality may only use the funds in the dedicated account 14for purchasing and maintaining ambulances, fire engines, and 15other vehicles used to provide emergency services. These funds 16are in addition to and may not be used to replace existing   10400HB2977ham001- 2 -LRB104 11872 RTM 24544 a1funds for purchasing and maintaining these vehicles.2    A home rule unit may not regulate the minimum funding 3requirement for emergency vehicles in a manner inconsistent 4with the regulation by the State under this Section. This 5paragraph is a limitation under subsection (i) of Section 6 of 6Article VII of the Illinois Constitution on the concurrent 7exercise by home rule units of powers and functions exercised 8by the State.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB2977 ILGA.GOV HB2977 - 104th General Assembly Rep. Mary GillFiled: 3/27/2025   10400HB2977ham001LRB104 11872 RTM 24544 a1AMENDMENT TO HOUSE BILL 2977 2    AMENDMENT NO. ______. Amend House Bill 2977 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Illinois Municipal Code is amended by 5adding Section 11-6.1.5 as follows: 6    (65 ILCS 5/11-6.1.5 new)7    Sec. 11-6.1.5. Minimum funding requirements for 8ambulances, fire engines, and other vehicles used to provide 9emergency services. A municipality with a population of more 10than 500,000 must set aside, in a dedicated account, 10% of the 11funds the municipality receives from an insurer on account of 12ambulance or fire services provided by the municipality. The 13municipality may only use the funds in the dedicated account 14for purchasing and maintaining ambulances, fire engines, and 15other vehicles used to provide emergency services. These funds 16are in addition to and may not be used to replace existing   10400HB2977ham001- 2 -LRB104 11872 RTM 24544 a1funds for purchasing and maintaining these vehicles.2    A home rule unit may not regulate the minimum funding 3requirement for emergency vehicles in a manner inconsistent 4with the regulation by the State under this Section. This 5paragraph is a limitation under subsection (i) of Section 6 of 6Article VII of the Illinois Constitution on the concurrent 7exercise by home rule units of powers and functions exercised 8by the State.".

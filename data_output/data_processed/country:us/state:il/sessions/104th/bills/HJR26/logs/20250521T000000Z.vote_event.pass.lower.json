@@ -1,0 +1,132 @@
+{
+  "identifier": "",
+  "motion_text": "Gun Violence Prevention, Amendment 3",
+  "motion_classification": [],
+  "start_date": "2025-05-21",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "6f53edb2-7e18-11f0-9290-a2330a6b74b7",
+  "bill_action": null,
+  "bill_identifier": "HJR26",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Crawford, Michael",
+      "voter_id": "~{\"name\": \"Crawford, Michael\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Deuter, Martha",
+      "voter_id": "~{\"name\": \"Deuter, Martha\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Faver Dias, Laura",
+      "voter_id": "~{\"name\": \"Faver Dias, Laura\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Katz Muhl, Tracy",
+      "voter_id": "~{\"name\": \"Katz Muhl, Tracy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harper, Sonya M",
+      "voter_id": "~{\"name\": \"Harper, Sonya M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Morgan, Bob",
+      "voter_id": "~{\"name\": \"Morgan, Bob\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Morris, Yolonda",
+      "voter_id": "~{\"name\": \"Morris, Yolonda\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "West II, Maurice A",
+      "voter_id": "~{\"name\": \"West II, Maurice A\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Hammond, Norine K",
+      "voter_id": "~{\"name\": \"Hammond, Norine K\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Niemerg, Adam M",
+      "voter_id": "~{\"name\": \"Niemerg, Adam M\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Windhorst, Patrick",
+      "voter_id": "~{\"name\": \"Windhorst, Patrick\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Cassidy, Kelly M",
+      "voter_id": "~{\"name\": \"Cassidy, Kelly M\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Davidsmeyer, Christopher \"C.D.\"",
+      "voter_id": "~{\"name\": \"Davidsmeyer, Christopher \\\"C.D.\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Miller, Chris",
+      "voter_id": "~{\"name\": \"Miller, Chris\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 3
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HJR0026HFA3_44437.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HJR0026HFA3_44437.pdf"
+}

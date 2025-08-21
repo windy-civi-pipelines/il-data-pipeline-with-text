@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Governor Amendatory Veto",
+    "date": "2025-08-08",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "executive-veto"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HB2568"
+}

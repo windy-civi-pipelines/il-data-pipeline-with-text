@@ -1,0 +1,16 @@
+Title: Full Text of HB1787
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB1787 ILGA.GOV HB1787 - 104th General Assembly Rep. Maura HirschauerFiled: 4/2/2025   10400HB1787ham001LRB104 10766 LNS 24303 a1AMENDMENT TO HOUSE BILL 1787 2    AMENDMENT NO. ______. Amend House Bill 1787 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The School Safety Drill Act is amended by 5adding Section 22 as follows: 6    (105 ILCS 128/22 new)7    Sec. 22. Substitute personnel training and support.8    (a) A school district shall provide training on school 9evacuation drills and law enforcement lockdown drills to all 10school personnel serving in a substitute capacity. Training 11shall be provided in person when available. With respect to 12individuals who hold a Short-Term Substitute Teaching License 13under Section 21B-20 of the School Code, this training may be 14included as part of the training provided under Section 1510-20.67 of the School Code.16    (b) In addition to the training under subsection (a), a   10400HB1787ham001- 2 -LRB104 10766 LNS 24303 a1school district shall provide support for substitute personnel 2by ensuring that recommendations are implemented, including, 3without limitation, that:4        (1) maps indicating all school exits are prominently 5    displayed in every classroom; and6        (2) the information packet given to 7    full-time-equivalent employees includes district-approved 8    materials outlining evacuation and lockdown procedures.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB1787 ILGA.GOV HB1787 - 104th General Assembly Rep. Maura HirschauerFiled: 4/2/2025   10400HB1787ham001LRB104 10766 LNS 24303 a1AMENDMENT TO HOUSE BILL 1787 2    AMENDMENT NO. ______. Amend House Bill 1787 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The School Safety Drill Act is amended by 5adding Section 22 as follows: 6    (105 ILCS 128/22 new)7    Sec. 22. Substitute personnel training and support.8    (a) A school district shall provide training on school 9evacuation drills and law enforcement lockdown drills to all 10school personnel serving in a substitute capacity. Training 11shall be provided in person when available. With respect to 12individuals who hold a Short-Term Substitute Teaching License 13under Section 21B-20 of the School Code, this training may be 14included as part of the training provided under Section 1510-20.67 of the School Code.16    (b) In addition to the training under subsection (a), a   10400HB1787ham001- 2 -LRB104 10766 LNS 24303 a1school district shall provide support for substitute personnel 2by ensuring that recommendations are implemented, including, 3without limitation, that:4        (1) maps indicating all school exits are prominently 5    displayed in every classroom; and6        (2) the information packet given to 7    full-time-equivalent employees includes district-approved 8    materials outlining evacuation and lockdown procedures.".

@@ -1,0 +1,102 @@
+{
+  "identifier": "",
+  "motion_text": "Elem Sec Ed: Adm., Lic. & Charter",
+  "motion_classification": [],
+  "start_date": "2025-05-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "4fe2e4a4-7e1a-11f0-9290-a2330a6b74b7",
+  "bill_action": null,
+  "bill_identifier": "SB1329",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Didech, Daniel",
+      "voter_id": "~{\"name\": \"Didech, Daniel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crespo, Fred",
+      "voter_id": "~{\"name\": \"Crespo, Fred\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Guerrero-Cuellar, Angelica",
+      "voter_id": "~{\"name\": \"Guerrero-Cuellar, Angelica\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Friess, David",
+      "voter_id": "~{\"name\": \"Friess, David\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moeller, Anna",
+      "voter_id": "~{\"name\": \"Moeller, Anna\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sosnowski, Joe C",
+      "voter_id": "~{\"name\": \"Sosnowski, Joe C\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Morgan, Bob",
+      "voter_id": "~{\"name\": \"Morgan, Bob\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Yang Rohr, Janet",
+      "voter_id": "~{\"name\": \"Yang Rohr, Janet\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "La Ha, Nicole",
+      "voter_id": "~{\"name\": \"La Ha, Nicole\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400SB1329_44091.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400SB1329_44091.pdf"
+}

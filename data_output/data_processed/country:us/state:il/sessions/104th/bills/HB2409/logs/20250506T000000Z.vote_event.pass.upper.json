@@ -1,0 +1,162 @@
+{
+  "identifier": "",
+  "motion_text": "Labor",
+  "motion_classification": [],
+  "start_date": "2025-05-06",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "104th",
+  "bill": "7d2f81b0-7e15-11f0-9290-a2330a6b74b7",
+  "bill_action": null,
+  "bill_identifier": "HB2409",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Balkema, Chris",
+      "voter_id": "~{\"name\": \"Balkema, Chris\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Aquino, Omar",
+      "voter_id": "~{\"name\": \"Aquino, Omar\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cervantes, Javier L",
+      "voter_id": "~{\"name\": \"Cervantes, Javier L\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Belt, Christopher",
+      "voter_id": "~{\"name\": \"Belt, Christopher\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "DeWitte, Donald P",
+      "voter_id": "~{\"name\": \"DeWitte, Donald P\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fowler, Dale",
+      "voter_id": "~{\"name\": \"Fowler, Dale\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Faraci, Paul",
+      "voter_id": "~{\"name\": \"Faraci, Paul\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Holmes, Linda",
+      "voter_id": "~{\"name\": \"Holmes, Linda\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Guzm\u00e1n, Graciela",
+      "voter_id": "~{\"name\": \"Guzm\\u00e1n, Graciela\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Martwick, Robert F",
+      "voter_id": "~{\"name\": \"Martwick, Robert F\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Loughran Cappel, Meg",
+      "voter_id": "~{\"name\": \"Loughran Cappel, Meg\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Porfirio, Mike",
+      "voter_id": "~{\"name\": \"Porfirio, Mike\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Peters, Robert",
+      "voter_id": "~{\"name\": \"Peters, Robert\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tracy, Jil",
+      "voter_id": "~{\"name\": \"Tracy, Jil\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Simmons, Mike",
+      "voter_id": "~{\"name\": \"Simmons, Mike\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Villivalam, Ram",
+      "voter_id": "~{\"name\": \"Villivalam, Ram\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Villanueva, Celina",
+      "voter_id": "~{\"name\": \"Villanueva, Celina\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wilcox, Craig",
+      "voter_id": "~{\"name\": \"Wilcox, Craig\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Chesney, Andrew S",
+      "voter_id": "~{\"name\": \"Chesney, Andrew S\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 18
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2409_44014.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2409_44014.pdf"
+}

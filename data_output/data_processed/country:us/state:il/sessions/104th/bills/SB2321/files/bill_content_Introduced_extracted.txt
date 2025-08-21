@@ -1,0 +1,16 @@
+Title: Full Text of SB2321
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB2321 ILGA.GOV SB2321 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB2321 Introduced 2/7/2025, by Sen. Steve McClure SYNOPSIS AS INTRODUCED: 225 ILCS 85/45 new    Amends the Pharmacy Practice Act. Defines "first-choice pharmacy". Provides that, if a first-choice pharmacy is unable to fill or provide a patient with a prescription, the first-choice pharmacy may forward the prescription order to another pharmacy that is able to fill the prescription.LRB104 10462 AAS 20537 b  A BILL FOR SB2321LRB104 10462 AAS 20537 b1    AN ACT concerning regulation. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Pharmacy Practice Act is amended by adding 5Section 45 as follows: 6    (225 ILCS 85/45 new)7    Sec. 45. First-choice pharmacy. 8    (a) As used in this Section, "first-choice pharmacy" means 9the pharmacy to which a prescription is initially sent by a 10prescriber.11    (b) If a first-choice pharmacy is unable to fill or 12provide a patient with a prescription, the first-choice 13pharmacy may forward the prescription order to another 14pharmacy that is able to fill the prescription.
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB2321 ILGA.GOV SB2321 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB2321 Introduced 2/7/2025, by Sen. Steve McClure SYNOPSIS AS INTRODUCED: 225 ILCS 85/45 new    Amends the Pharmacy Practice Act. Defines "first-choice pharmacy". Provides that, if a first-choice pharmacy is unable to fill or provide a patient with a prescription, the first-choice pharmacy may forward the prescription order to another pharmacy that is able to fill the prescription.LRB104 10462 AAS 20537 b  A BILL FOR SB2321LRB104 10462 AAS 20537 b1    AN ACT concerning regulation. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Pharmacy Practice Act is amended by adding 5Section 45 as follows: 6    (225 ILCS 85/45 new)7    Sec. 45. First-choice pharmacy. 8    (a) As used in this Section, "first-choice pharmacy" means 9the pharmacy to which a prescription is initially sent by a 10prescriber.11    (b) If a first-choice pharmacy is unable to fill or 12provide a patient with a prescription, the first-choice 13pharmacy may forward the prescription order to another 14pharmacy that is able to fill the prescription.

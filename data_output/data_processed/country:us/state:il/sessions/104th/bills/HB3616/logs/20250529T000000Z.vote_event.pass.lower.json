@@ -1,0 +1,156 @@
+{
+  "identifier": "",
+  "motion_text": "Housing",
+  "motion_classification": [],
+  "start_date": "2025-05-29",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "375b1134-7e17-11f0-9290-a2330a6b74b7",
+  "bill_action": null,
+  "bill_identifier": "HB3616",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Cassidy, Kelly M",
+      "voter_id": "~{\"name\": \"Cassidy, Kelly M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Canty, Mary Beth",
+      "voter_id": "~{\"name\": \"Canty, Mary Beth\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Davis, William \"Will\"",
+      "voter_id": "~{\"name\": \"Davis, William \\\"Will\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Coffey Jr., Michael J",
+      "voter_id": "~{\"name\": \"Coffey Jr., Michael J\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Faver Dias, Laura",
+      "voter_id": "~{\"name\": \"Faver Dias, Laura\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Deuter, Martha",
+      "voter_id": "~{\"name\": \"Deuter, Martha\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gill, Mary",
+      "voter_id": "~{\"name\": \"Gill, Mary\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Huynh, Hoan",
+      "voter_id": "~{\"name\": \"Huynh, Hoan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johnson, Gregg",
+      "voter_id": "~{\"name\": \"Johnson, Gregg\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jim\u00e9nez, Lilian",
+      "voter_id": "~{\"name\": \"Jim\\u00e9nez, Lilian\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mussman, Michelle",
+      "voter_id": "~{\"name\": \"Mussman, Michelle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sheehan, Patrick",
+      "voter_id": "~{\"name\": \"Sheehan, Patrick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "West II, Maurice A",
+      "voter_id": "~{\"name\": \"West II, Maurice A\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Weaver, Travis",
+      "voter_id": "~{\"name\": \"Weaver, Travis\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Grant, Amy L",
+      "voter_id": "~{\"name\": \"Grant, Amy L\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Halbrook, Brad",
+      "voter_id": "~{\"name\": \"Halbrook, Brad\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Rashid, Abdelnasser",
+      "voter_id": "~{\"name\": \"Rashid, Abdelnasser\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Sanalitro, Jennifer",
+      "voter_id": "~{\"name\": \"Sanalitro, Jennifer\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 14
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 4
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3616SCA1_44639.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3616SCA1_44639.pdf"
+}

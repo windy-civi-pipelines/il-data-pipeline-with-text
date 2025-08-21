@@ -1,0 +1,16 @@
+Title: Full Text of SB1773
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 004
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB1773 ILGA.GOV SB1773 - 104th General Assembly Sen. Julie A. MorrisonFiled: 4/2/2025   10400SB1773sam004LRB104 03029 RLC 24790 a1AMENDMENT TO SENATE BILL 17732    AMENDMENT NO. ______. Amend Senate Bill 1773 on page 1, 3line 5, by inserting "and by adding Section 309.1" after 4"208"; and 5on page 102 by inserting immediately below line 10 the 6following: 7    "(720 ILCS 570/309.1 new)8    Sec. 309.1. Xylazine exemptions. Notwithstanding the 9scheduling of xylazine as a Schedule III controlled substance, 10xylazine shall not be considered a controlled substance when:11        (1) used by licensed Illinois veterinarians dispensing 12    or prescribing for, or administering to, a nonhuman 13    species of a drug containing xylazine that has been 14    approved by the U.S. Food and Drug Administration;15        (2) used by licensed Illinois veterinarians dispensing 16    or prescribing for, or administering to, a nonhuman   10400SB1773sam004- 2 -LRB104 03029 RLC 24790 a1    species that is permissible under the Federal Food, Drug, 2    and Cosmetic Act;3        (3) manufactured, distributed, or used as an active 4    pharmaceutical ingredient for manufacturing an animal drug 5    approved under the Federal Food, Drug, and Cosmetic Act;6        (4) used by a licensed certified euthanasia technician 7    employed by a certified euthanasia agency; or8        (5) used by a wildlife biologist engaged in legal or 9    authorized fieldwork under the indirect supervision of a 10    veterinarian.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB1773 ILGA.GOV SB1773 - 104th General Assembly Sen. Julie A. MorrisonFiled: 4/2/2025   10400SB1773sam004LRB104 03029 RLC 24790 a1AMENDMENT TO SENATE BILL 17732    AMENDMENT NO. ______. Amend Senate Bill 1773 on page 1, 3line 5, by inserting "and by adding Section 309.1" after 4"208"; and 5on page 102 by inserting immediately below line 10 the 6following: 7    "(720 ILCS 570/309.1 new)8    Sec. 309.1. Xylazine exemptions. Notwithstanding the 9scheduling of xylazine as a Schedule III controlled substance, 10xylazine shall not be considered a controlled substance when:11        (1) used by licensed Illinois veterinarians dispensing 12    or prescribing for, or administering to, a nonhuman 13    species of a drug containing xylazine that has been 14    approved by the U.S. Food and Drug Administration;15        (2) used by licensed Illinois veterinarians dispensing 16    or prescribing for, or administering to, a nonhuman   10400SB1773sam004- 2 -LRB104 03029 RLC 24790 a1    species that is permissible under the Federal Food, Drug, 2    and Cosmetic Act;3        (3) manufactured, distributed, or used as an active 4    pharmaceutical ingredient for manufacturing an animal drug 5    approved under the Federal Food, Drug, and Cosmetic Act;6        (4) used by a licensed certified euthanasia technician 7    employed by a certified euthanasia agency; or8        (5) used by a wildlife biologist engaged in legal or 9    authorized fieldwork under the indirect supervision of a 10    veterinarian.".

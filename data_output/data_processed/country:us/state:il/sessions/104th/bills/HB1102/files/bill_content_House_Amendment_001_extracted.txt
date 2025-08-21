@@ -1,0 +1,16 @@
+Title: Full Text of HB1102
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB1102 ILGA.GOV HB1102 - 104th General Assembly Rep. Jed DavisFiled: 3/18/2025   10400HB1102ham001LRB104 03831 BAB 23809 a1AMENDMENT TO HOUSE BILL 1102 2    AMENDMENT NO. ______. Amend House Bill 1102 on page 3, by 3replacing lines 7 through 11 with the following: 4    ""Surveillance tests for ovarian cancer" means all 5medically viable methods for the detection and diagnosis of 6ovarian cancer, including, but not limited to, ultrasounds, 7magnetic resonance imaging (MRIs), x-rays, computed tomography 8(CT) scans, and CA-125 blood test screenings for individuals 9determined by a physician to be at elevated risk based on 10personal and family history, genetic predisposition, or other 11clinically recognized risk factors.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB1102 ILGA.GOV HB1102 - 104th General Assembly Rep. Jed DavisFiled: 3/18/2025   10400HB1102ham001LRB104 03831 BAB 23809 a1AMENDMENT TO HOUSE BILL 1102 2    AMENDMENT NO. ______. Amend House Bill 1102 on page 3, by 3replacing lines 7 through 11 with the following: 4    ""Surveillance tests for ovarian cancer" means all 5medically viable methods for the detection and diagnosis of 6ovarian cancer, including, but not limited to, ultrasounds, 7magnetic resonance imaging (MRIs), x-rays, computed tomography 8(CT) scans, and CA-125 blood test screenings for individuals 9determined by a physician to be at elevated risk based on 10personal and family history, genetic predisposition, or other 11clinically recognized risk factors.".

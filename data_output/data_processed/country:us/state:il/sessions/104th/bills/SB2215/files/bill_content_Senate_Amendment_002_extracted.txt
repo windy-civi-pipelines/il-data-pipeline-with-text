@@ -1,0 +1,16 @@
+Title: Full Text of SB2215
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 002
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB2215 ILGA.GOV SB2215 - 104th General Assembly Sen. Suzy Glowiak HiltonFiled: 4/3/2025   10400SB2215sam002LRB104 11361 BDA 24687 a1AMENDMENT TO SENATE BILL 22152    AMENDMENT NO. ______. Amend Senate Bill 2215, AS AMENDED, 3by replacing everything after the enacting clause with the 4following: 5    "Section 5. The Department of Public Health Act is amended 6by adding Section 8.5 as follows: 7    (20 ILCS 2305/8.5 new)8    Sec. 8.5. Distribution of ovarian reserve information.9    (a) As used in this Section, "health care professional" 10means a physician licensed under the Medical Practice Act of 111987, a podiatrist licensed under the Podiatric Medical 12Practice Act of 1987, an advanced practice registered nurse 13licensed under the Nurse Practice Act, or a physician 14assistant licensed under the Physician Assistant Practice Act 15of 1987.16    (b) The Department of Public Health shall provide the   10400SB2215sam002- 2 -LRB104 11361 BDA 24687 a1following information for health care professionals to 2distribute to women over the age of 25 years and women 3interested in ovarian reserve testing:4        (1) a description of the concept of ovarian reserve;5        (2) an overview of different types of ovarian reserve 6    testing;7        (3) information on potential results and resources 8    that are available after testing, along with additional 9    information that should be considered by a patient with 10    this test.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB2215 ILGA.GOV SB2215 - 104th General Assembly Sen. Suzy Glowiak HiltonFiled: 4/3/2025   10400SB2215sam002LRB104 11361 BDA 24687 a1AMENDMENT TO SENATE BILL 22152    AMENDMENT NO. ______. Amend Senate Bill 2215, AS AMENDED, 3by replacing everything after the enacting clause with the 4following: 5    "Section 5. The Department of Public Health Act is amended 6by adding Section 8.5 as follows: 7    (20 ILCS 2305/8.5 new)8    Sec. 8.5. Distribution of ovarian reserve information.9    (a) As used in this Section, "health care professional" 10means a physician licensed under the Medical Practice Act of 111987, a podiatrist licensed under the Podiatric Medical 12Practice Act of 1987, an advanced practice registered nurse 13licensed under the Nurse Practice Act, or a physician 14assistant licensed under the Physician Assistant Practice Act 15of 1987.16    (b) The Department of Public Health shall provide the   10400SB2215sam002- 2 -LRB104 11361 BDA 24687 a1following information for health care professionals to 2distribute to women over the age of 25 years and women 3interested in ovarian reserve testing:4        (1) a description of the concept of ovarian reserve;5        (2) an overview of different types of ovarian reserve 6    testing;7        (3) information on potential results and resources 8    that are available after testing, along with additional 9    information that should be considered by a patient with 10    this test.".

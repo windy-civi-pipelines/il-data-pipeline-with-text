@@ -1,0 +1,16 @@
+Title: Full Text of HB1365
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB1365 ILGA.GOV HB1365 - 104th General Assembly Sen. Julie A. MorrisonFiled: 5/2/2025   10400HB1365sam001LRB104 03329 AAS 25781 a1AMENDMENT TO HOUSE BILL 1365 2    AMENDMENT NO. ______. Amend House Bill 1365 on page 16, 3immediately below line 19, by inserting the following: 4    "Section 23. The Illinois Occupational Therapy Practice 5Act is amended by adding Section 8.1 as follows: 6    (225 ILCS 75/8.1 new)7    Sec. 8.1. Practice pending licensure. 8    (a) An applicant for licensure under this Act shall be 9authorized to temporarily practice under supervision pending 10issuance of a license if: (1) the applicant authorizes the 11Department to release information regarding the application's 12status; and (2) the Department acknowledges that the 13application has been received, which may be proven by the 14applicant providing the employer with a copy of the 15Department's license application screen that shows that the 16application is pending.  10400HB1365sam001- 2 -LRB104 03329 AAS 25781 a1    (b) Temporary authorization to practice under this Section 2shall immediately terminate upon: (1) a determination by the 3Department that, based upon review of the application and 4supporting documents, the applicant does not meet the 5requirements for licensure; (2) a determination by the 6Department that the applicant has engaged in conduct or 7actions that would constitute grounds for discipline under 8this Act; or (3) the issuance of a permanent license.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB1365 ILGA.GOV HB1365 - 104th General Assembly Sen. Julie A. MorrisonFiled: 5/2/2025   10400HB1365sam001LRB104 03329 AAS 25781 a1AMENDMENT TO HOUSE BILL 1365 2    AMENDMENT NO. ______. Amend House Bill 1365 on page 16, 3immediately below line 19, by inserting the following: 4    "Section 23. The Illinois Occupational Therapy Practice 5Act is amended by adding Section 8.1 as follows: 6    (225 ILCS 75/8.1 new)7    Sec. 8.1. Practice pending licensure. 8    (a) An applicant for licensure under this Act shall be 9authorized to temporarily practice under supervision pending 10issuance of a license if: (1) the applicant authorizes the 11Department to release information regarding the application's 12status; and (2) the Department acknowledges that the 13application has been received, which may be proven by the 14applicant providing the employer with a copy of the 15Department's license application screen that shows that the 16application is pending.  10400HB1365sam001- 2 -LRB104 03329 AAS 25781 a1    (b) Temporary authorization to practice under this Section 2shall immediately terminate upon: (1) a determination by the 3Department that, based upon review of the application and 4supporting documents, the applicant does not meet the 5requirements for licensure; (2) a determination by the 6Department that the applicant has engaged in conduct or 7actions that would constitute grounds for discipline under 8this Act; or (3) the issuance of a permanent license.".

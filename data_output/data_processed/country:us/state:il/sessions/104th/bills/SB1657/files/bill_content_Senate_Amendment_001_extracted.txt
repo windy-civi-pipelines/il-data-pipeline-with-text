@@ -1,0 +1,16 @@
+Title: Full Text of SB1657
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB1657 ILGA.GOV SB1657 - 104th General Assembly Sen. Mike PorfirioFiled: 2/25/2025   10400SB1657sam001LRB104 07589 LNS 22849 a1AMENDMENT TO SENATE BILL 16572    AMENDMENT NO. ______. Amend Senate Bill 1657 as follows: 3on page 1, by replacing line 7 with the following:4    "Sec. 29-5. Reimbursement by State for transportation. As 5used in this Section: 6    "Electric school bus" means a school bus that runs fully 7on electricity, using a battery pack to store the electricity 8that powers the motor.9    "Electric vehicle" means a vehicle that is powered by an 10electric motor that draws electricity from a battery and is 11capable of being charged from an external source.12    "Electrification-as-a-service" means a business model 13designed to reduce the cost and complexity of transitioning a 14fleet to electric, including, but not limited to, a 15combination of services such as an electrification impact 16study, grant writing services, infrastructure design, 17engineering and equipment installation, equipment procurement   10400SB1657sam001- 2 -LRB104 07589 LNS 22849 a1or ownership, charge management, fueling costs, and charger 2and vehicle management.3    Any"; and 4on page 7, line 8, before "vehicles", by inserting "electric".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB1657 ILGA.GOV SB1657 - 104th General Assembly Sen. Mike PorfirioFiled: 2/25/2025   10400SB1657sam001LRB104 07589 LNS 22849 a1AMENDMENT TO SENATE BILL 16572    AMENDMENT NO. ______. Amend Senate Bill 1657 as follows: 3on page 1, by replacing line 7 with the following:4    "Sec. 29-5. Reimbursement by State for transportation. As 5used in this Section: 6    "Electric school bus" means a school bus that runs fully 7on electricity, using a battery pack to store the electricity 8that powers the motor.9    "Electric vehicle" means a vehicle that is powered by an 10electric motor that draws electricity from a battery and is 11capable of being charged from an external source.12    "Electrification-as-a-service" means a business model 13designed to reduce the cost and complexity of transitioning a 14fleet to electric, including, but not limited to, a 15combination of services such as an electrification impact 16study, grant writing services, infrastructure design, 17engineering and equipment installation, equipment procurement   10400SB1657sam001- 2 -LRB104 07589 LNS 22849 a1or ownership, charge management, fueling costs, and charger 2and vehicle management.3    Any"; and 4on page 7, line 8, before "vehicles", by inserting "electric".

@@ -1,0 +1,16 @@
+Title: Full Text of HB1540
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 002
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB1540 ILGA.GOV HB1540 - 104th General Assembly Rep. Tony M. McCombieFiled: 4/8/2025   10400HB1540ham002LRB104 07338 RLC 25191 a1AMENDMENT TO HOUSE BILL 1540 2    AMENDMENT NO. ______. Amend House Bill 1540 by replacing 3line 21 on page 7 through line 4 on page 8 with the following:4    "(d-1) A pharmacist shall require positive recognition of 5an individual to whom Schedule II controlled substances are 6dispensed or delivered if the individual is not known to the 7pharmacist or pharmacy employees, except if positive 8identification is not available and a pharmacist exercising 9professional judgment determines that a delay in dispensing 10the controlled substance may be detrimental to a patient.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB1540 ILGA.GOV HB1540 - 104th General Assembly Rep. Tony M. McCombieFiled: 4/8/2025   10400HB1540ham002LRB104 07338 RLC 25191 a1AMENDMENT TO HOUSE BILL 1540 2    AMENDMENT NO. ______. Amend House Bill 1540 by replacing 3line 21 on page 7 through line 4 on page 8 with the following:4    "(d-1) A pharmacist shall require positive recognition of 5an individual to whom Schedule II controlled substances are 6dispensed or delivered if the individual is not known to the 7pharmacist or pharmacy employees, except if positive 8identification is not available and a pharmacist exercising 9professional judgment determines that a delay in dispensing 10the controlled substance may be detrimental to a patient.".

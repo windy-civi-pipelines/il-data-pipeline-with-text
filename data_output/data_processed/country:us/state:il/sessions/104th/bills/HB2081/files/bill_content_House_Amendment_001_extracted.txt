@@ -1,0 +1,16 @@
+Title: Full Text of HB2081
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB2081 ILGA.GOV HB2081 - 104th General Assembly Rep. Tony M. McCombieFiled: 3/25/2025   10400HB2081ham001LRB104 11548 BDA 24232 a1AMENDMENT TO HOUSE BILL 2081 2    AMENDMENT NO. ______. Amend House Bill 2081 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The State Fire Marshal Act is amended by 5adding Section 2.9 as follows: 6    (20 ILCS 2905/2.9 new)7    Sec. 2.9. PFAS Replacement Grant Program.8    (a) The Office shall establish and administer a PFAS 9Replacement Grant Program to award grants to fire departments, 10fire protections districts, and other similar volunteer, 11non-profit fire protection services, for the replacement of 12any firefighting equipment, emergency equipment, and clothing 13that contain per- and polyfluoroalkyl substances (PFAS).14    (b) As used in this Section, "firefighting equipment, 15emergency equipment, and clothing" includes, without 16limitation, turnout gear, personal protective equipment,   10400HB2081ham001- 2 -LRB104 11548 BDA 24232 a1clothing, tools, and accessories, as determined by the State 2Fire Marshal.3    (c) The Office shall adopt rules necessary to determine 4the awarding of grants based upon financial and equipment 5needs and any other factors determined to be appropriate by 6the State Fire Marshal. The Office shall adopt any rules 7necessary for the implementation and administration of this 8Section.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB2081 ILGA.GOV HB2081 - 104th General Assembly Rep. Tony M. McCombieFiled: 3/25/2025   10400HB2081ham001LRB104 11548 BDA 24232 a1AMENDMENT TO HOUSE BILL 2081 2    AMENDMENT NO. ______. Amend House Bill 2081 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The State Fire Marshal Act is amended by 5adding Section 2.9 as follows: 6    (20 ILCS 2905/2.9 new)7    Sec. 2.9. PFAS Replacement Grant Program.8    (a) The Office shall establish and administer a PFAS 9Replacement Grant Program to award grants to fire departments, 10fire protections districts, and other similar volunteer, 11non-profit fire protection services, for the replacement of 12any firefighting equipment, emergency equipment, and clothing 13that contain per- and polyfluoroalkyl substances (PFAS).14    (b) As used in this Section, "firefighting equipment, 15emergency equipment, and clothing" includes, without 16limitation, turnout gear, personal protective equipment,   10400HB2081ham001- 2 -LRB104 11548 BDA 24232 a1clothing, tools, and accessories, as determined by the State 2Fire Marshal.3    (c) The Office shall adopt rules necessary to determine 4the awarding of grants based upon financial and equipment 5needs and any other factors determined to be appropriate by 6the State Fire Marshal. The Office shall adopt any rules 7necessary for the implementation and administration of this 8Section.".

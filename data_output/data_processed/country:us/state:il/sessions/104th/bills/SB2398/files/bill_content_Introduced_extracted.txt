@@ -1,0 +1,16 @@
+Title: Full Text of SB2398
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB2398 ILGA.GOV SB2398 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB2398 Introduced 2/7/2025, by Sen. Bill Cunningham SYNOPSIS AS INTRODUCED: 230 ILCS 45/25-63 new    Amends the Sports Wagering Act. Prohibits a sports wagering licensee from using artificial intelligence to: (1) track the sports wagers of an individual; (2) create an offer or promotion targeting a specific individual; or (3) create a gambling product.LRB104 10146 LNS 20218 b  A BILL FOR SB2398LRB104 10146 LNS 20218 b1    AN ACT concerning gaming. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Sports Wagering Act is amended by adding 5Section 25-63 as follows: 6    (230 ILCS 45/25-63 new)7    Sec. 25-63. Artificial intelligence restriction. A sports 8wagering licensee may not use artificial intelligence to:9        (1) track the sports wagers of an individual;10        (2) create an offer or promotion targeting a specific 11    individual; or12        (3) create a gambling product, such as a microbet. 13    For the purpose of this Section, "microbet" means a wager 14placed in an outcome or occurrence within a sporting event 15which may or may not be related to the ultimate result of the 16sporting event.
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB2398 ILGA.GOV SB2398 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB2398 Introduced 2/7/2025, by Sen. Bill Cunningham SYNOPSIS AS INTRODUCED: 230 ILCS 45/25-63 new    Amends the Sports Wagering Act. Prohibits a sports wagering licensee from using artificial intelligence to: (1) track the sports wagers of an individual; (2) create an offer or promotion targeting a specific individual; or (3) create a gambling product.LRB104 10146 LNS 20218 b  A BILL FOR SB2398LRB104 10146 LNS 20218 b1    AN ACT concerning gaming. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Sports Wagering Act is amended by adding 5Section 25-63 as follows: 6    (230 ILCS 45/25-63 new)7    Sec. 25-63. Artificial intelligence restriction. A sports 8wagering licensee may not use artificial intelligence to:9        (1) track the sports wagers of an individual;10        (2) create an offer or promotion targeting a specific 11    individual; or12        (3) create a gambling product, such as a microbet. 13    For the purpose of this Section, "microbet" means a wager 14placed in an outcome or occurrence within a sporting event 15which may or may not be related to the ultimate result of the 16sporting event.

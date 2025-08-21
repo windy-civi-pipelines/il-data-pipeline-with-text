@@ -1,0 +1,150 @@
+{
+  "identifier": "",
+  "motion_text": "Insurance",
+  "motion_classification": [],
+  "start_date": "2025-05-29",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "7bd431e2-7e17-11f0-9290-a2330a6b74b7",
+  "bill_action": null,
+  "bill_identifier": "HB3800",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "DeLuca, Anthony",
+      "voter_id": "~{\"name\": \"DeLuca, Anthony\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cabello, John M",
+      "voter_id": "~{\"name\": \"Cabello, John M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gonz\u00e1lez Jr., Edgar",
+      "voter_id": "~{\"name\": \"Gonz\\u00e1lez Jr., Edgar\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Didech, Daniel",
+      "voter_id": "~{\"name\": \"Didech, Daniel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jim\u00e9nez, Lilian",
+      "voter_id": "~{\"name\": \"Jim\\u00e9nez, Lilian\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Jones, Thaddeus",
+      "voter_id": "~{\"name\": \"Jones, Thaddeus\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johnson, Gregg",
+      "voter_id": "~{\"name\": \"Johnson, Gregg\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Keicher, Jeff",
+      "voter_id": "~{\"name\": \"Keicher, Jeff\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Morgan, Bob",
+      "voter_id": "~{\"name\": \"Morgan, Bob\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lilly, Camille Y",
+      "voter_id": "~{\"name\": \"Lilly, Camille Y\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Rita, Robert \"Bob\"",
+      "voter_id": "~{\"name\": \"Rita, Robert \\\"Bob\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Niemerg, Adam M",
+      "voter_id": "~{\"name\": \"Niemerg, Adam M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Weaver, Travis",
+      "voter_id": "~{\"name\": \"Weaver, Travis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tipsword, Dennis",
+      "voter_id": "~{\"name\": \"Tipsword, Dennis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Williams, Jawaharial",
+      "voter_id": "~{\"name\": \"Williams, Jawaharial\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Hauter, William E",
+      "voter_id": "~{\"name\": \"Hauter, William E\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Katz Muhl, Tracy",
+      "voter_id": "~{\"name\": \"Katz Muhl, Tracy\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 15
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3800SCA1_44646.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3800SCA1_44646.pdf"
+}

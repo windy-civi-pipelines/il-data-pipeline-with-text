@@ -1,0 +1,16 @@
+Title: Full Text of HB0035
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB0035 ILGA.GOV HB0035 - 104th General Assembly Sen. Laura FineFiled: 5/12/2025   10400HB0035sam001LRB104 03558 BAB 26005 a1AMENDMENT TO HOUSE BILL 35 2    AMENDMENT NO. ______. Amend House Bill 35 on page 4, by 3replacing lines 10 through 25 with the following:4    "(b) Even if a health care plan or other utilization 5review program, as defined in Section 10 of the Managed Care 6Reform and Patient Rights Act, uses an algorithmic automated 7process in the course of utilization review for medical 8necessity, the health care plan or other utilization review 9program shall ensure that only a clinical peer makes any 10adverse determination based on medical necessity and that any 11subsequent appeal is processed as required by Section 45 of 12the Managed Care Reform and Patient Rights Act, including the 13restriction that only a clinical peer may review an appeal. A 14health care plan or other utilization review program using an 15automated process shall have the accreditation and the 16policies and procedures required by subsection (b-10) of 17Section 85 of the Managed Care Reform and Patient Rights 18Act.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB0035 ILGA.GOV HB0035 - 104th General Assembly Sen. Laura FineFiled: 5/12/2025   10400HB0035sam001LRB104 03558 BAB 26005 a1AMENDMENT TO HOUSE BILL 35 2    AMENDMENT NO. ______. Amend House Bill 35 on page 4, by 3replacing lines 10 through 25 with the following:4    "(b) Even if a health care plan or other utilization 5review program, as defined in Section 10 of the Managed Care 6Reform and Patient Rights Act, uses an algorithmic automated 7process in the course of utilization review for medical 8necessity, the health care plan or other utilization review 9program shall ensure that only a clinical peer makes any 10adverse determination based on medical necessity and that any 11subsequent appeal is processed as required by Section 45 of 12the Managed Care Reform and Patient Rights Act, including the 13restriction that only a clinical peer may review an appeal. A 14health care plan or other utilization review program using an 15automated process shall have the accreditation and the 16policies and procedures required by subsection (b-10) of 17Section 85 of the Managed Care Reform and Patient Rights 18Act.".

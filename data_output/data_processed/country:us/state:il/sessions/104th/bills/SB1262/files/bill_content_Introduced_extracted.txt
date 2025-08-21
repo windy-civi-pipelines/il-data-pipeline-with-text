@@ -1,0 +1,16 @@
+Title: Full Text of SB1262
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB1262 ILGA.GOV SB1262 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB1262 Introduced 1/28/2025, by Sen. Mike Simmons SYNOPSIS AS INTRODUCED: 20 ILCS 1370/1-85 new    Amends the Department of Innovation and Technology Act. Provides that, on or before January 1, 2026, the Department of Innovation and Technology shall develop and implement a system that allows users accessing a website operated by the State to automatically translate the contents of that website into another language. Provides that the system shall provide automatic translation to at least the 100 most commonly spoken language in the State. Effective immediately.LRB104 09700 SPS 19766 b  A BILL FOR SB1262LRB104 09700 SPS 19766 b1    AN ACT concerning State government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Department of Innovation and Technology Act 5is amended by adding Section 1-85 as follows: 6    (20 ILCS 1370/1-85 new)7    Sec. 1-85. Website translation system. On or before 8January 1, 2026, the Department shall develop and implement a 9system that allows users accessing a website operated by this 10State to automatically translate the contents of that website 11into another language. The system shall provide automatic 12translation to at least the 100 most commonly spoken language 13in this State. 14    Section 99. Effective date. This Act takes effect upon 15becoming law.
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB1262 ILGA.GOV SB1262 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB1262 Introduced 1/28/2025, by Sen. Mike Simmons SYNOPSIS AS INTRODUCED: 20 ILCS 1370/1-85 new    Amends the Department of Innovation and Technology Act. Provides that, on or before January 1, 2026, the Department of Innovation and Technology shall develop and implement a system that allows users accessing a website operated by the State to automatically translate the contents of that website into another language. Provides that the system shall provide automatic translation to at least the 100 most commonly spoken language in the State. Effective immediately.LRB104 09700 SPS 19766 b  A BILL FOR SB1262LRB104 09700 SPS 19766 b1    AN ACT concerning State government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Department of Innovation and Technology Act 5is amended by adding Section 1-85 as follows: 6    (20 ILCS 1370/1-85 new)7    Sec. 1-85. Website translation system. On or before 8January 1, 2026, the Department shall develop and implement a 9system that allows users accessing a website operated by this 10State to automatically translate the contents of that website 11into another language. The system shall provide automatic 12translation to at least the 100 most commonly spoken language 13in this State. 14    Section 99. Effective date. This Act takes effect upon 15becoming law.

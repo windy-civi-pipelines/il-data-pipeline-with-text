@@ -1,0 +1,16 @@
+Title: Full Text of HB1566
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB1566 ILGA.GOV HB1566 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB1566 Introduced 1/28/2025, by Rep. Jaime M. Andrade, Jr. SYNOPSIS AS INTRODUCED: 50 ILCS 709/5-13 new    Amends the Uniform Crime Reporting Act. Provides that a law enforcement agency shall report all shootings connected with the subject of an incident report when the shooting resulted in any property damage or bodily injury. Provides that each incident report that reports a shooting shall, at a minimum, state whether a firearm has been identified and if a magazine, round of ammunition, expended bullet, or shell casing was found at the scene of the crime.LRB104 08515 RTM 18567 b  A BILL FOR HB1566LRB104 08515 RTM 18567 b1    AN ACT concerning local government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Uniform Crime Reporting Act is amended by 5adding Section 5-13 as follows: 6    (50 ILCS 709/5-13 new)7    Sec. 5-13. Incident reports; shootings. A law enforcement 8agency shall report on an incident report all shootings 9connected with the subject of the incident report when the 10shooting resulted in any property damage or bodily injury. 11Each incident report that reports a shooting shall, at a 12minimum, state whether a firearm has been identified and if a 13magazine, round of ammunition, expended bullet, or shell 14casing was found at the scene of the crime.
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB1566 ILGA.GOV HB1566 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB1566 Introduced 1/28/2025, by Rep. Jaime M. Andrade, Jr. SYNOPSIS AS INTRODUCED: 50 ILCS 709/5-13 new    Amends the Uniform Crime Reporting Act. Provides that a law enforcement agency shall report all shootings connected with the subject of an incident report when the shooting resulted in any property damage or bodily injury. Provides that each incident report that reports a shooting shall, at a minimum, state whether a firearm has been identified and if a magazine, round of ammunition, expended bullet, or shell casing was found at the scene of the crime.LRB104 08515 RTM 18567 b  A BILL FOR HB1566LRB104 08515 RTM 18567 b1    AN ACT concerning local government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Uniform Crime Reporting Act is amended by 5adding Section 5-13 as follows: 6    (50 ILCS 709/5-13 new)7    Sec. 5-13. Incident reports; shootings. A law enforcement 8agency shall report on an incident report all shootings 9connected with the subject of the incident report when the 10shooting resulted in any property damage or bodily injury. 11Each incident report that reports a shooting shall, at a 12minimum, state whether a firearm has been identified and if a 13magazine, round of ammunition, expended bullet, or shell 14casing was found at the scene of the crime.

@@ -1,0 +1,150 @@
+{
+  "identifier": "",
+  "motion_text": "Int Relations, Tourism, & Trade",
+  "motion_classification": [],
+  "start_date": "2025-04-30",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "17c5edfc-7e18-11f0-9290-a2330a6b74b7",
+  "bill_action": null,
+  "bill_identifier": "HR197",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Davis, William \"Will\"",
+      "voter_id": "~{\"name\": \"Davis, William \\\"Will\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Elik, Amy",
+      "voter_id": "~{\"name\": \"Elik, Amy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Didech, Daniel",
+      "voter_id": "~{\"name\": \"Didech, Daniel\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Huynh, Hoan",
+      "voter_id": "~{\"name\": \"Huynh, Hoan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Haas, Jackie",
+      "voter_id": "~{\"name\": \"Haas, Jackie\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kelly, Michael J",
+      "voter_id": "~{\"name\": \"Kelly, Michael J\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Keicher, Jeff",
+      "voter_id": "~{\"name\": \"Keicher, Jeff\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mason, Joyce",
+      "voter_id": "~{\"name\": \"Mason, Joyce\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Manley, Natalie A",
+      "voter_id": "~{\"name\": \"Manley, Natalie A\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ryan, Rick",
+      "voter_id": "~{\"name\": \"Ryan, Rick\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Olickal, Kevin John",
+      "voter_id": "~{\"name\": \"Olickal, Kevin John\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Spain, Ryan",
+      "voter_id": "~{\"name\": \"Spain, Ryan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Vella, Dave",
+      "voter_id": "~{\"name\": \"Vella, Dave\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Walsh Jr., Lawrence \"Larry\"",
+      "voter_id": "~{\"name\": \"Walsh Jr., Lawrence \\\"Larry\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Crespo, Fred",
+      "voter_id": "~{\"name\": \"Crespo, Fred\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Sosnowski, Joe C",
+      "voter_id": "~{\"name\": \"Sosnowski, Joe C\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Stephens, Brad",
+      "voter_id": "~{\"name\": \"Stephens, Brad\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 14
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 3
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HR0197_43718.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HR0197_43718.pdf"
+}

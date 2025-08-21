@@ -1,0 +1,16 @@
+Title: Full Text of SB0283
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB0283 ILGA.GOV SB0283 - 104th General Assembly Sen. Sue RezinFiled: 3/24/2025   10400SB0283sam001LRB104 03919 RLC 22778 a1AMENDMENT TO SENATE BILL 283 2    AMENDMENT NO. ______. Amend Senate Bill 283 on page 2, by 3replacing lines 3 through 5 with the following:4            "(H) any wireless or wireline telecommunication 5        infrastructure, wherever located, regardless of 6        whether all or certain elements of the wireless or 7        wireline infrastructure is obviously designed to 8        exclude intruders, including, but not limited to, 9        facilities accessible through manholes; facilities in 10        conduits under bridges and in tunnels; cell towers and 11        equipment in cell tower complexes; and telephone poles 12        and lines, including fiber optic lines;".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB0283 ILGA.GOV SB0283 - 104th General Assembly Sen. Sue RezinFiled: 3/24/2025   10400SB0283sam001LRB104 03919 RLC 22778 a1AMENDMENT TO SENATE BILL 283 2    AMENDMENT NO. ______. Amend Senate Bill 283 on page 2, by 3replacing lines 3 through 5 with the following:4            "(H) any wireless or wireline telecommunication 5        infrastructure, wherever located, regardless of 6        whether all or certain elements of the wireless or 7        wireline infrastructure is obviously designed to 8        exclude intruders, including, but not limited to, 9        facilities accessible through manholes; facilities in 10        conduits under bridges and in tunnels; cell towers and 11        equipment in cell tower complexes; and telephone poles 12        and lines, including fiber optic lines;".

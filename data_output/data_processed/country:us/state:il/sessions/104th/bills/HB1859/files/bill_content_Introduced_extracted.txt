@@ -1,0 +1,16 @@
+Title: Full Text of HB1859
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB1859 ILGA.GOV HB1859 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB1859 Introduced 1/29/2025, by Rep. Abdelnasser Rashid SYNOPSIS AS INTRODUCED: 110 ILCS 805/3-29.28 new    Amends the Public Community College Act. Provides that the board of trustees of a community college district shall require the primary instructor of a course to meet specified qualifications set forth in the Illinois Administrative Code and any other applicable rules adopted by the Illinois Community College Board. Provides that a course may not, in lieu of a primary instructor, use artificial intelligence or a generative artificial intelligence program.LRB104 05178 LNS 15207 bSTATE MANDATES ACT MAY REQUIRE REIMBURSEMENTMAY APPLY A BILL FOR HB1859LRB104 05178 LNS 15207 b1    AN ACT concerning education. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Public Community College Act is amended by 5adding Section 3-29.28 as follows: 6    (110 ILCS 805/3-29.28 new)7    Sec. 3-29.28. Primary instructor qualifications. Each 8board shall require the primary instructor of a course to be an 9individual who meets the qualifications set forth in 23 Ill. 10Adm. Code 1501.303(f) and any other applicable rules adopted 11by the State Board. A course may not, in lieu of a primary 12instructor, use artificial intelligence or a generative 13artificial intelligence program, as defined in Section 2-101 14of the Illinois Human Rights Act.
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB1859 ILGA.GOV HB1859 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB1859 Introduced 1/29/2025, by Rep. Abdelnasser Rashid SYNOPSIS AS INTRODUCED: 110 ILCS 805/3-29.28 new    Amends the Public Community College Act. Provides that the board of trustees of a community college district shall require the primary instructor of a course to meet specified qualifications set forth in the Illinois Administrative Code and any other applicable rules adopted by the Illinois Community College Board. Provides that a course may not, in lieu of a primary instructor, use artificial intelligence or a generative artificial intelligence program.LRB104 05178 LNS 15207 bSTATE MANDATES ACT MAY REQUIRE REIMBURSEMENTMAY APPLY A BILL FOR HB1859LRB104 05178 LNS 15207 b1    AN ACT concerning education. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Public Community College Act is amended by 5adding Section 3-29.28 as follows: 6    (110 ILCS 805/3-29.28 new)7    Sec. 3-29.28. Primary instructor qualifications. Each 8board shall require the primary instructor of a course to be an 9individual who meets the qualifications set forth in 23 Ill. 10Adm. Code 1501.303(f) and any other applicable rules adopted 11by the State Board. A course may not, in lieu of a primary 12instructor, use artificial intelligence or a generative 13artificial intelligence program, as defined in Section 2-101 14of the Illinois Human Rights Act.

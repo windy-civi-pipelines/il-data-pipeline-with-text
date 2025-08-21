@@ -1,0 +1,16 @@
+Title: Full Text of SB1048
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB1048 ILGA.GOV SB1048 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB1048 Introduced 1/24/2025, by Sen. John F. Curran SYNOPSIS AS INTRODUCED: 60 ILCS 1/1-5    Amends the Township Code. Makes a technical change in a Section concerning the use of terms. LRB104 05385 RTM 15414 b  A BILL FOR SB1048LRB104 05385 RTM 15414 b1    AN ACT concerning local government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly:  4    Section 5. The Township Code is amended by changing 5Section 1-5 as follows: 6    (60 ILCS 1/1-5)7    Sec. 1-5. Use of terms. 8    (a) A reference in another Act to a town (other than an 9incorporated town) shall be deemed a reference to a township 10as that that term is used in this Code.11    (b) A reference in another Act to the board of trustees of 12a town (other than an incorporated town) or township, the 13board of town trustees, or the board of township trustees 14shall be deemed a reference to the township board as that term 15is used in this Code.16    (c) A reference in another Act to an officer of a town 17(other than an incorporated town) shall be deemed a reference 18to a township officer as that term is used in this Code.19(Source: P.A. 88-62.)
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB1048 ILGA.GOV SB1048 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB1048 Introduced 1/24/2025, by Sen. John F. Curran SYNOPSIS AS INTRODUCED: 60 ILCS 1/1-5    Amends the Township Code. Makes a technical change in a Section concerning the use of terms. LRB104 05385 RTM 15414 b  A BILL FOR SB1048LRB104 05385 RTM 15414 b1    AN ACT concerning local government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly:  4    Section 5. The Township Code is amended by changing 5Section 1-5 as follows: 6    (60 ILCS 1/1-5)7    Sec. 1-5. Use of terms. 8    (a) A reference in another Act to a town (other than an 9incorporated town) shall be deemed a reference to a township 10as that that term is used in this Code.11    (b) A reference in another Act to the board of trustees of 12a town (other than an incorporated town) or township, the 13board of town trustees, or the board of township trustees 14shall be deemed a reference to the township board as that term 15is used in this Code.16    (c) A reference in another Act to an officer of a town 17(other than an incorporated town) shall be deemed a reference 18to a township officer as that term is used in this Code.19(Source: P.A. 88-62.)

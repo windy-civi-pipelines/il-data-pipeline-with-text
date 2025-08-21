@@ -1,0 +1,108 @@
+{
+  "identifier": "",
+  "motion_text": "Revenue, Amendment 2",
+  "motion_classification": [],
+  "start_date": "2025-05-30",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "104th",
+  "bill": "493a72c8-7e17-11f0-9290-a2330a6b74b7",
+  "bill_action": null,
+  "bill_identifier": "HB3662",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Castro, Cristina",
+      "voter_id": "~{\"name\": \"Castro, Cristina\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Joyce, Patrick J",
+      "voter_id": "~{\"name\": \"Joyce, Patrick J\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "DeWitte, Donald P",
+      "voter_id": "~{\"name\": \"DeWitte, Donald P\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Peters, Robert",
+      "voter_id": "~{\"name\": \"Peters, Robert\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Martwick, Robert F",
+      "voter_id": "~{\"name\": \"Martwick, Robert F\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Turner, Sally J",
+      "voter_id": "~{\"name\": \"Turner, Sally J\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Walker, Mark L",
+      "voter_id": "~{\"name\": \"Walker, Mark L\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Villanueva, Celina",
+      "voter_id": "~{\"name\": \"Villanueva, Celina\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Balkema, Chris",
+      "voter_id": "~{\"name\": \"Balkema, Chris\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Sims Jr., Elgie R",
+      "voter_id": "~{\"name\": \"Sims Jr., Elgie R\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3662SFA2_44760.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3662SFA2_44760.pdf"
+}

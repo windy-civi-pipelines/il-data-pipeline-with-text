@@ -1,0 +1,16 @@
+Title: Full Text of SB1719
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB1719 ILGA.GOV SB1719 - 104th General Assembly Sen. Li Arellano, Jr.Filed: 3/14/2025   10400SB1719sam001LRB104 09935 RTM 23928 a1AMENDMENT TO SENATE BILL 1719 2    AMENDMENT NO. ______. Amend Senate Bill 1719 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Local Records Act is amended by adding 5Section 22 as follows: 6    (50 ILCS 205/22 new)7    Sec. 22. Electronic storage. A unit of local government 8required to store public records under this Act may satisfy 9the requirements of this Act by storing the public records in 10an electronic form if the unit of local government maintains a 11secondary copy of public records stored in a secure storage 12system that:13        (1) complies with industry standards for data 14    security, confidentiality, and accessibility; and15        (2) ensures that the records are retrievable in the 16    event of data loss, corruption, or disaster affecting the   10400SB1719sam001- 2 -LRB104 09935 RTM 23928 a1    primary storage medium.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB1719 ILGA.GOV SB1719 - 104th General Assembly Sen. Li Arellano, Jr.Filed: 3/14/2025   10400SB1719sam001LRB104 09935 RTM 23928 a1AMENDMENT TO SENATE BILL 1719 2    AMENDMENT NO. ______. Amend Senate Bill 1719 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Local Records Act is amended by adding 5Section 22 as follows: 6    (50 ILCS 205/22 new)7    Sec. 22. Electronic storage. A unit of local government 8required to store public records under this Act may satisfy 9the requirements of this Act by storing the public records in 10an electronic form if the unit of local government maintains a 11secondary copy of public records stored in a secure storage 12system that:13        (1) complies with industry standards for data 14    security, confidentiality, and accessibility; and15        (2) ensures that the records are retrievable in the 16    event of data loss, corruption, or disaster affecting the   10400SB1719sam001- 2 -LRB104 09935 RTM 23928 a1    primary storage medium.".

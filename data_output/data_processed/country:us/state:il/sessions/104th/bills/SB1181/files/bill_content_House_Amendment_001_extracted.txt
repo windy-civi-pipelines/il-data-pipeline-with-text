@@ -1,0 +1,16 @@
+Title: Full Text of SB1181
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB1181 ILGA.GOV SB1181 - 104th General Assembly Rep. Daniel DidechFiled: 5/1/2025   10400SB1181ham001LRB104 05566 JRC 25773 a1AMENDMENT TO SENATE BILL 11812    AMENDMENT NO. ______. Amend Senate Bill 1181 as follows:  3on page 1, line 5, by replacing "5 and 15" with "5, 15, and 425"; and 5on page 3, line 9, after "government", by inserting ", 6including freedom of the press"; and  7on page 3, line 15, after "government", by inserting ", 8including freedom of the press,"; and  9on page 5, immediately below line 6, by inserting the 10following: 11    "(735 ILCS 110/25)12    Sec. 25. Attorney's fees and costs. The court shall award 13a moving party who prevails in a motion under this Act   10400SB1181ham001- 2 -LRB104 05566 JRC 25773 a1reasonable attorney's fees and costs incurred in connection 2with the motion. The court shall award a responding party who 3prevails in a motion under this Act reasonable attorney's fees 4and costs included in connection with the motion if the court 5finds that the motion was frivolous or filed solely with 6intent to delay the proceeding. 7(Source: P.A. 95-506, eff. 8-28-07.) 8    Section 99. Effective date. This Act takes effect upon 9becoming law.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB1181 ILGA.GOV SB1181 - 104th General Assembly Rep. Daniel DidechFiled: 5/1/2025   10400SB1181ham001LRB104 05566 JRC 25773 a1AMENDMENT TO SENATE BILL 11812    AMENDMENT NO. ______. Amend Senate Bill 1181 as follows:  3on page 1, line 5, by replacing "5 and 15" with "5, 15, and 425"; and 5on page 3, line 9, after "government", by inserting ", 6including freedom of the press"; and  7on page 3, line 15, after "government", by inserting ", 8including freedom of the press,"; and  9on page 5, immediately below line 6, by inserting the 10following: 11    "(735 ILCS 110/25)12    Sec. 25. Attorney's fees and costs. The court shall award 13a moving party who prevails in a motion under this Act   10400SB1181ham001- 2 -LRB104 05566 JRC 25773 a1reasonable attorney's fees and costs incurred in connection 2with the motion. The court shall award a responding party who 3prevails in a motion under this Act reasonable attorney's fees 4and costs included in connection with the motion if the court 5finds that the motion was frivolous or filed solely with 6intent to delay the proceeding. 7(Source: P.A. 95-506, eff. 8-28-07.) 8    Section 99. Effective date. This Act takes effect upon 9becoming law.".

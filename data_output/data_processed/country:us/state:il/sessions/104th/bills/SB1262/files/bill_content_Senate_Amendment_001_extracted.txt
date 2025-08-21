@@ -1,0 +1,16 @@
+Title: Full Text of SB1262
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB1262 ILGA.GOV SB1262 - 104th General Assembly Sen. Mike SimmonsFiled: 4/22/2025   10400SB1262sam001LRB104 09700 SPS 25017 a1AMENDMENT TO SENATE BILL 1262 2    AMENDMENT NO. ______. Amend Senate Bill 1262 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Department of Innovation and Technology 5Act is amended by adding Section 1-85 as follows: 6    (20 ILCS 1370/1-85 new)7    Sec. 1-85. Website translation system. Subject to 8appropriation, on or before January 1, 2026, the Department of 9Innovation and Technology shall implement a pilot system that 10allows users who are accessing a website supported by the 11Department to automatically translate the contents of that 12website into another language. The pilot system shall provide 13automatic translation of at least the 25 most commonly spoken 14languages in this State. Subject to appropriation, the pilot 15system shall serve as a model for the provision, in future 16years, of additional translation services on websites   10400SB1262sam001- 2 -LRB104 09700 SPS 25017 a1supported by the Department. 2    Section 99. Effective date. This Act takes effect upon 3becoming law.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB1262 ILGA.GOV SB1262 - 104th General Assembly Sen. Mike SimmonsFiled: 4/22/2025   10400SB1262sam001LRB104 09700 SPS 25017 a1AMENDMENT TO SENATE BILL 1262 2    AMENDMENT NO. ______. Amend Senate Bill 1262 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Department of Innovation and Technology 5Act is amended by adding Section 1-85 as follows: 6    (20 ILCS 1370/1-85 new)7    Sec. 1-85. Website translation system. Subject to 8appropriation, on or before January 1, 2026, the Department of 9Innovation and Technology shall implement a pilot system that 10allows users who are accessing a website supported by the 11Department to automatically translate the contents of that 12website into another language. The pilot system shall provide 13automatic translation of at least the 25 most commonly spoken 14languages in this State. Subject to appropriation, the pilot 15system shall serve as a model for the provision, in future 16years, of additional translation services on websites   10400SB1262sam001- 2 -LRB104 09700 SPS 25017 a1supported by the Department. 2    Section 99. Effective date. This Act takes effect upon 3becoming law.".

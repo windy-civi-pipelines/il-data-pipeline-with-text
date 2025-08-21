@@ -1,0 +1,16 @@
+Title: Full Text of HB3803
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB3803 ILGA.GOV HB3803 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB3803 Introduced 2/18/2025, by Rep. Joyce Mason SYNOPSIS AS INTRODUCED: 415 ILCS 60/14.5 new    Amends the Illinois Pesticide Act. Provides that no person shall distribute, sell, offer for sale, or use glyphosate or any products containing glyphosate within the State. Provides that the Department of Agriculture may adopt any rules it deems necessary to implement the provisions.LRB104 08061 BDA 18107 b  A BILL FOR HB3803LRB104 08061 BDA 18107 b1    AN ACT concerning safety. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Illinois Pesticide Act is amended by adding 5Section 14.5 as follows: 6    (415 ILCS 60/14.5 new)7    Sec. 14.5. Glyphosate prohibition.8    (a) No person shall distribute, sell, offer for sale, or 9use glyphosate or any products containing glyphosate within 10this State.11    (b) For the purposes of this Section, "glyphosate" means a 12synthetic compound that is a non-selective systemic herbicide, 13also known as N-(phosphonomethyl)glycine with a chemical 14formula of C3H8NO5P.15    (c) The Department of Agriculture may adopt any rules it 16deems necessary to implement the provisions of this Section.
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB3803 ILGA.GOV HB3803 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB3803 Introduced 2/18/2025, by Rep. Joyce Mason SYNOPSIS AS INTRODUCED: 415 ILCS 60/14.5 new    Amends the Illinois Pesticide Act. Provides that no person shall distribute, sell, offer for sale, or use glyphosate or any products containing glyphosate within the State. Provides that the Department of Agriculture may adopt any rules it deems necessary to implement the provisions.LRB104 08061 BDA 18107 b  A BILL FOR HB3803LRB104 08061 BDA 18107 b1    AN ACT concerning safety. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Illinois Pesticide Act is amended by adding 5Section 14.5 as follows: 6    (415 ILCS 60/14.5 new)7    Sec. 14.5. Glyphosate prohibition.8    (a) No person shall distribute, sell, offer for sale, or 9use glyphosate or any products containing glyphosate within 10this State.11    (b) For the purposes of this Section, "glyphosate" means a 12synthetic compound that is a non-selective systemic herbicide, 13also known as N-(phosphonomethyl)glycine with a chemical 14formula of C3H8NO5P.15    (c) The Department of Agriculture may adopt any rules it 16deems necessary to implement the provisions of this Section.

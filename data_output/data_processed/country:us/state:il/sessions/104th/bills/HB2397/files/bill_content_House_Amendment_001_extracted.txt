@@ -1,0 +1,16 @@
+Title: Full Text of HB2397
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB2397 ILGA.GOV HB2397 - 104th General Assembly Rep. Nicolle GrasseFiled: 3/3/2025   10400HB2397ham001LRB104 08043 RLC 22590 a1AMENDMENT TO HOUSE BILL 2397 2    AMENDMENT NO. ______. Amend House Bill 2397 on page 7, 3line 10, by replacing "; and" with ";"; and 4on page 7, by replacing line 19 with the following: 5        "facility; and6        (8) the cost of the Department's end of life care for 7    committed persons who died and were not in hospice or 8    palliative care programs, including the following:9            (A) the annual costs associated with end of life 10        care for committed persons who died and were not in 11        hospice or palliative care programs;12            (B) the sources of funding for end of life care for 13        committed persons who died and were not in hospice or 14        palliative care programs; and15            (C) the annual costs associated with end of life 16        care that was not palliative or hospice care at each 17        Department institution and facility.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB2397 ILGA.GOV HB2397 - 104th General Assembly Rep. Nicolle GrasseFiled: 3/3/2025   10400HB2397ham001LRB104 08043 RLC 22590 a1AMENDMENT TO HOUSE BILL 2397 2    AMENDMENT NO. ______. Amend House Bill 2397 on page 7, 3line 10, by replacing "; and" with ";"; and 4on page 7, by replacing line 19 with the following: 5        "facility; and6        (8) the cost of the Department's end of life care for 7    committed persons who died and were not in hospice or 8    palliative care programs, including the following:9            (A) the annual costs associated with end of life 10        care for committed persons who died and were not in 11        hospice or palliative care programs;12            (B) the sources of funding for end of life care for 13        committed persons who died and were not in hospice or 14        palliative care programs; and15            (C) the annual costs associated with end of life 16        care that was not palliative or hospice care at each 17        Department institution and facility.".

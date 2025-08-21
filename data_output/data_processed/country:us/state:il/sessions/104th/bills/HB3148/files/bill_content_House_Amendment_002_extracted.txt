@@ -1,0 +1,16 @@
+Title: Full Text of HB3148
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 002
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB3148 ILGA.GOV HB3148 - 104th General Assembly Rep. Bradley FrittsFiled: 4/9/2025   10400HB3148ham002LRB104 10061 SPS 25161 a1AMENDMENT TO HOUSE BILL 31482    AMENDMENT NO. ______. Amend House Bill 3148, AS AMENDED, 3by replacing everything after the enacting clause with the 4following: 5    "Section 5. The Consumer Fraud and Deceptive Business 6Practices Act is amended by adding Section 2HHHH as follows: 7    (815 ILCS 505/2HHHH new)8    Sec. 2HHHH. Prohibit fees for alternative payment and 9document delivery methods.10    (a) It is an unlawful practice within the meaning of this 11Act for any person to charge a consumer an additional fee or 12surcharge to mail a monthly invoice or statement to the 13consumer's address.14    (b) Nothing in this Section shall prohibit a business from 15offering a discount to a consumer for enrolling in electronic 16or paperless services or an automatic payment program.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB3148 ILGA.GOV HB3148 - 104th General Assembly Rep. Bradley FrittsFiled: 4/9/2025   10400HB3148ham002LRB104 10061 SPS 25161 a1AMENDMENT TO HOUSE BILL 31482    AMENDMENT NO. ______. Amend House Bill 3148, AS AMENDED, 3by replacing everything after the enacting clause with the 4following: 5    "Section 5. The Consumer Fraud and Deceptive Business 6Practices Act is amended by adding Section 2HHHH as follows: 7    (815 ILCS 505/2HHHH new)8    Sec. 2HHHH. Prohibit fees for alternative payment and 9document delivery methods.10    (a) It is an unlawful practice within the meaning of this 11Act for any person to charge a consumer an additional fee or 12surcharge to mail a monthly invoice or statement to the 13consumer's address.14    (b) Nothing in this Section shall prohibit a business from 15offering a discount to a consumer for enrolling in electronic 16or paperless services or an automatic payment program.".

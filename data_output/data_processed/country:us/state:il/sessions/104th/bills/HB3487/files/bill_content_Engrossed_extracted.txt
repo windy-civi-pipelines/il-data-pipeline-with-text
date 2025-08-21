@@ -1,0 +1,16 @@
+Title: Full Text of HB3487
+Official Title: 
+Number of Sections: 1
+Source: versions - Engrossed
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB3487 ILGA.GOV HB3487 - 104th General Assembly HB3487 EngrossedLRB104 09936 BAB 20006 b1    AN ACT concerning regulation. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Department of Professional Regulation Law 5of the Civil Administrative Code of Illinois is amended by 6changing Section 2105-368 as follows: 7    (20 ILCS 2105/2105-368)8    Sec. 2105-368. Data on applications. In conjunction with 9applications for licensure and renewals, the Department shall 10request, and applicants may voluntarily provide, demographic 11information that includes sex, ethnicity, race, and 12disability, primary language spoken, anticipated date of 13retirement, type of employment, and zip code. On or before 14March 1 of each calendar year, the Department shall publish a 15report on the Department's website that contains the 16demographic information it collected the preceding calendar 17year, the number of applications for licensure and renewal of 18licensure it received in the preceding calendar year, and the 19number of applicants who were denied licensure in the 20preceding calendar year regardless of whether application was 21made in that calendar year.22(Source: P.A. 103-522, eff. 1-1-25; 103-605, eff. 7-1-24.)
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB3487 ILGA.GOV HB3487 - 104th General Assembly HB3487 EngrossedLRB104 09936 BAB 20006 b1    AN ACT concerning regulation. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Department of Professional Regulation Law 5of the Civil Administrative Code of Illinois is amended by 6changing Section 2105-368 as follows: 7    (20 ILCS 2105/2105-368)8    Sec. 2105-368. Data on applications. In conjunction with 9applications for licensure and renewals, the Department shall 10request, and applicants may voluntarily provide, demographic 11information that includes sex, ethnicity, race, and 12disability, primary language spoken, anticipated date of 13retirement, type of employment, and zip code. On or before 14March 1 of each calendar year, the Department shall publish a 15report on the Department's website that contains the 16demographic information it collected the preceding calendar 17year, the number of applications for licensure and renewal of 18licensure it received in the preceding calendar year, and the 19number of applicants who were denied licensure in the 20preceding calendar year regardless of whether application was 21made in that calendar year.22(Source: P.A. 103-522, eff. 1-1-25; 103-605, eff. 7-1-24.)

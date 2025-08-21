@@ -1,0 +1,168 @@
+{
+  "identifier": "",
+  "motion_text": "Third Reading",
+  "motion_classification": [],
+  "start_date": "2025-05-29",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "537f0542-7e16-11f0-9290-a2330a6b74b7",
+  "bill_action": null,
+  "bill_identifier": "HB2994",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Blair-Sherlock, Diane",
+      "voter_id": "~{\"name\": \"Blair-Sherlock, Diane\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Avelar, Dagmara",
+      "voter_id": "~{\"name\": \"Avelar, Dagmara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Croke, Margaret",
+      "voter_id": "~{\"name\": \"Croke, Margaret\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Canty, Mary Beth",
+      "voter_id": "~{\"name\": \"Canty, Mary Beth\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Davis, William \"Will\"",
+      "voter_id": "~{\"name\": \"Davis, William \\\"Will\\\"\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Friess, David",
+      "voter_id": "~{\"name\": \"Friess, David\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gong-Gershowitz, Jennifer",
+      "voter_id": "~{\"name\": \"Gong-Gershowitz, Jennifer\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fritts, Bradley",
+      "voter_id": "~{\"name\": \"Fritts, Bradley\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Katz Muhl, Tracy",
+      "voter_id": "~{\"name\": \"Katz Muhl, Tracy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hernandez, Barbara",
+      "voter_id": "~{\"name\": \"Hernandez, Barbara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "McLaughlin, Martin",
+      "voter_id": "~{\"name\": \"McLaughlin, Martin\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mason, Joyce",
+      "voter_id": "~{\"name\": \"Mason, Joyce\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reick, Steven",
+      "voter_id": "~{\"name\": \"Reick, Steven\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Olickal, Kevin John",
+      "voter_id": "~{\"name\": \"Olickal, Kevin John\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Vella, Dave",
+      "voter_id": "~{\"name\": \"Vella, Dave\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ugaste, Dan",
+      "voter_id": "~{\"name\": \"Ugaste, Dan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Williams, Ann M",
+      "voter_id": "~{\"name\": \"Williams, Ann M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Weber, Tom",
+      "voter_id": "~{\"name\": \"Weber, Tom\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Davis, Jed",
+      "voter_id": "~{\"name\": \"Davis, Jed\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Didech, Daniel",
+      "voter_id": "~{\"name\": \"Didech, Daniel\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 18
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2994SCA1_44647.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2994SCA1_44647.pdf"
+}

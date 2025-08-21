@@ -1,0 +1,16 @@
+Title: Full Text of HB3830
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB3830 ILGA.GOV HB3830 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB3830 Introduced 2/18/2025, by Rep. Daniel Didech SYNOPSIS AS INTRODUCED: 35 ILCS 200/1-55    Amends the Property Tax Code. Makes a technical change in a Section concerning the definition of "33 1/3%". LRB104 09406 HLH 19465 b  A BILL FOR HB3830LRB104 09406 HLH 19465 b1    AN ACT concerning revenue. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly:  4    Section 5. The Property Tax Code is amended by changing 5Section 1-55 as follows: 6    (35 ILCS 200/1-55)7    Sec. 1-55. 33 1/3%. One-third of the the fair cash value of 8property, as determined by the Department's sales ratio 9studies for the 3 most recent years preceding the assessment 10year, adjusted to take into account any changes in assessment 11levels implemented since the data for the studies were 12collected.13(Source: P.A. 86-1481; 87-877; 88-455.)
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB3830 ILGA.GOV HB3830 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB3830 Introduced 2/18/2025, by Rep. Daniel Didech SYNOPSIS AS INTRODUCED: 35 ILCS 200/1-55    Amends the Property Tax Code. Makes a technical change in a Section concerning the definition of "33 1/3%". LRB104 09406 HLH 19465 b  A BILL FOR HB3830LRB104 09406 HLH 19465 b1    AN ACT concerning revenue. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly:  4    Section 5. The Property Tax Code is amended by changing 5Section 1-55 as follows: 6    (35 ILCS 200/1-55)7    Sec. 1-55. 33 1/3%. One-third of the the fair cash value of 8property, as determined by the Department's sales ratio 9studies for the 3 most recent years preceding the assessment 10year, adjusted to take into account any changes in assessment 11levels implemented since the data for the studies were 12collected.13(Source: P.A. 86-1481; 87-877; 88-455.)

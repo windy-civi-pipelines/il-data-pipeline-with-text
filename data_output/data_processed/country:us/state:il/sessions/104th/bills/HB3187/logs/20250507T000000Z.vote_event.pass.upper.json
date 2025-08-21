@@ -1,0 +1,114 @@
+{
+  "identifier": "",
+  "motion_text": "Commerce",
+  "motion_classification": [],
+  "start_date": "2025-05-07",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "104th",
+  "bill": "99712792-7e16-11f0-9290-a2330a6b74b7",
+  "bill_action": null,
+  "bill_identifier": "HB3187",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Feigenholtz, Sara",
+      "voter_id": "~{\"name\": \"Feigenholtz, Sara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Faraci, Paul",
+      "voter_id": "~{\"name\": \"Faraci, Paul\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Glowiak Hilton, Suzy",
+      "voter_id": "~{\"name\": \"Glowiak Hilton, Suzy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Fowler, Dale",
+      "voter_id": "~{\"name\": \"Fowler, Dale\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hastings, Michael E",
+      "voter_id": "~{\"name\": \"Hastings, Michael E\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Johnson, Adriane",
+      "voter_id": "~{\"name\": \"Johnson, Adriane\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Preston, Willie",
+      "voter_id": "~{\"name\": \"Preston, Willie\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Hills, Darby A",
+      "voter_id": "~{\"name\": \"Hills, Darby A\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Plummer, Jason",
+      "voter_id": "~{\"name\": \"Plummer, Jason\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Stadelman, Steve",
+      "voter_id": "~{\"name\": \"Stadelman, Steve\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Wilcox, Craig",
+      "voter_id": "~{\"name\": \"Wilcox, Craig\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 7
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 4
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3187_44154.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3187_44154.pdf"
+}

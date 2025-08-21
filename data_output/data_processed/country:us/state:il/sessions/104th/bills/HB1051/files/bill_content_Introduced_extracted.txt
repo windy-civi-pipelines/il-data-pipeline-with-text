@@ -1,0 +1,16 @@
+Title: Full Text of HB1051
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB1051 ILGA.GOV HB1051 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB1051 Introduced 1/9/2025, by Rep. Dave Vella SYNOPSIS AS INTRODUCED: 415 ILCS 30/9.3 new    Amends the Illinois Water Well Construction Code. Provides that the minimum lateral setback distance between a closed-loop well and a storm sewer, sanitary sewer, combined sewer, or any other potential source of contamination is 5 feet. Specifies that setbacks from footing drains and pits, crawl spaces, and basements do not apply to closed-loop wells.LRB104 03206 BDA 13227 b  A BILL FOR HB1051LRB104 03206 BDA 13227 b1    AN ACT concerning safety. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Illinois Water Well Construction Code is 5amended by adding Section 9.3 as follows: 6    (415 ILCS 30/9.3 new)7    Sec. 9.3. Closed-loop well setbacks. 8    (a) The minimum lateral setback distance between a 9closed-loop well and a storm sewer, sanitary sewer, combined 10sewer, or any other potential source of contamination is 5 11feet.12    (b) Setbacks from footing drains and pits, crawl spaces, 13and basements do not apply to closed-loop wells.
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB1051 ILGA.GOV HB1051 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB1051 Introduced 1/9/2025, by Rep. Dave Vella SYNOPSIS AS INTRODUCED: 415 ILCS 30/9.3 new    Amends the Illinois Water Well Construction Code. Provides that the minimum lateral setback distance between a closed-loop well and a storm sewer, sanitary sewer, combined sewer, or any other potential source of contamination is 5 feet. Specifies that setbacks from footing drains and pits, crawl spaces, and basements do not apply to closed-loop wells.LRB104 03206 BDA 13227 b  A BILL FOR HB1051LRB104 03206 BDA 13227 b1    AN ACT concerning safety. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Illinois Water Well Construction Code is 5amended by adding Section 9.3 as follows: 6    (415 ILCS 30/9.3 new)7    Sec. 9.3. Closed-loop well setbacks. 8    (a) The minimum lateral setback distance between a 9closed-loop well and a storm sewer, sanitary sewer, combined 10sewer, or any other potential source of contamination is 5 11feet.12    (b) Setbacks from footing drains and pits, crawl spaces, 13and basements do not apply to closed-loop wells.

@@ -1,0 +1,16 @@
+Title: Full Text of HB3030
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB3030 ILGA.GOV HB3030 - 104th General Assembly Rep. Janet Yang RohrFiled: 3/5/2025   10400HB3030ham001LRB104 09701 RLC 23214 a1AMENDMENT TO HOUSE BILL 3030 2    AMENDMENT NO. ______. Amend House Bill 3030 on page 2, by 3inserting immediately below line 22 the following:4    ""Social media platform" does not include an online 5service, application, or website that consists primarily of 6news, sports, entertainment, or other content that is not user 7generated, but is preselected by the provider, and for which 8any chat, comments, or interactive functionality is 9incidental.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB3030 ILGA.GOV HB3030 - 104th General Assembly Rep. Janet Yang RohrFiled: 3/5/2025   10400HB3030ham001LRB104 09701 RLC 23214 a1AMENDMENT TO HOUSE BILL 3030 2    AMENDMENT NO. ______. Amend House Bill 3030 on page 2, by 3inserting immediately below line 22 the following:4    ""Social media platform" does not include an online 5service, application, or website that consists primarily of 6news, sports, entertainment, or other content that is not user 7generated, but is preselected by the provider, and for which 8any chat, comments, or interactive functionality is 9incidental.".

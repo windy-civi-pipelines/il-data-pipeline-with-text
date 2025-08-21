@@ -1,0 +1,16 @@
+Title: Full Text of HB2792
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB2792 ILGA.GOV HB2792 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB2792 Introduced 2/6/2025, by Rep. Suzanne M. Ness SYNOPSIS AS INTRODUCED: 5 ILCS 140/2.26 new    Amends the Freedom of Information Act. Provides that, if a public body uses an electronic system for the submission of requests under the Act, then it shall employ a CAPTCHA test or other similar measures to verify that those electronically submitted requests are being made by a human.LRB104 10733 BDA 20812 b  A BILL FOR HB2792LRB104 10733 BDA 20812 b1    AN ACT concerning government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Freedom of Information Act is amended by 5adding Section 2.26 as follows: 6    (5 ILCS 140/2.26 new)7    Sec. 2.26. Requester verification. If a public body uses 8an electronic system for the submission of requests under this 9Act, then it shall employ a CAPTCHA test or other similar 10measures to verify that those electronically submitted 11requests are being made by a human.
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB2792 ILGA.GOV HB2792 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB2792 Introduced 2/6/2025, by Rep. Suzanne M. Ness SYNOPSIS AS INTRODUCED: 5 ILCS 140/2.26 new    Amends the Freedom of Information Act. Provides that, if a public body uses an electronic system for the submission of requests under the Act, then it shall employ a CAPTCHA test or other similar measures to verify that those electronically submitted requests are being made by a human.LRB104 10733 BDA 20812 b  A BILL FOR HB2792LRB104 10733 BDA 20812 b1    AN ACT concerning government. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Freedom of Information Act is amended by 5adding Section 2.26 as follows: 6    (5 ILCS 140/2.26 new)7    Sec. 2.26. Requester verification. If a public body uses 8an electronic system for the submission of requests under this 9Act, then it shall employ a CAPTCHA test or other similar 10measures to verify that those electronically submitted 11requests are being made by a human.

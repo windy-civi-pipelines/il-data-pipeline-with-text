@@ -1,0 +1,120 @@
+{
+  "identifier": "",
+  "motion_text": "Adoption & Child Welfare",
+  "motion_classification": [],
+  "start_date": "2025-05-29",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "60e35376-7e13-11f0-9290-a2330a6b74b7",
+  "bill_action": null,
+  "bill_identifier": "HB871",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Costa Howard, Terra",
+      "voter_id": "~{\"name\": \"Costa Howard, Terra\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Briel, Amy",
+      "voter_id": "~{\"name\": \"Briel, Amy\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hernandez, Norma",
+      "voter_id": "~{\"name\": \"Hernandez, Norma\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mason, Joyce",
+      "voter_id": "~{\"name\": \"Mason, Joyce\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ness, Suzanne M",
+      "voter_id": "~{\"name\": \"Ness, Suzanne M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mussman, Michelle",
+      "voter_id": "~{\"name\": \"Mussman, Michelle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reick, Steven",
+      "voter_id": "~{\"name\": \"Reick, Steven\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Olickal, Kevin John",
+      "voter_id": "~{\"name\": \"Olickal, Kevin John\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Davis, Lisa",
+      "voter_id": "~{\"name\": \"Davis, Lisa\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Davis, Jed",
+      "voter_id": "~{\"name\": \"Davis, Jed\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Deering, Regan",
+      "voter_id": "~{\"name\": \"Deering, Regan\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "La Ha, Nicole",
+      "voter_id": "~{\"name\": \"La Ha, Nicole\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 4
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0871SCA1_44634.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0871SCA1_44634.pdf"
+}

@@ -1,0 +1,84 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4082",
+  "title": "CD CORR-C NUMBER PRISONER",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Unified Code of Corrections. Provides that notwithstanding any prior exclusion, any person incarcerated under an indeterminate sentence on the effective date of the amendatory Act whose minimum term was 20 years or more as of February 1, 1978, may elect to be resentenced under the 1978 determinate sentencing law. Provides that the election must be made in writing to the Department of Corrections, which shall inform all eligible persons within 60 days after the effective date of the amendatory Act. Provides that the Department of Corrections shall provide all necessary forms and assistance to eligible persons. Provides that upon election, the person's indeterminate sentence shall be converted to a determinate sentence consistent with the 1978 sentencing structure and the offense for which the person was convicted. Provides that time served shall be applied retroactively, and the person shall be credited with all sentence credits and earned time applicable under the law in effect since the date of original commitment. Provides that any person whose recalculated determinate sentence has been fully served shall be immediately released to a mandatory supervised release term under the terms applicable to the offense class and sentence length at the time of original sentencing. Provides that the Prisoner Review Board shall schedule hearings for eligible persons who elect the option within 180 days after receiving their request. Provides that thereafter, continued review shall occur no less frequently than every 12 months, unless earlier action is deemed by the Board to be appropriate. Provides that nothing in the provision shall be construed to require parole or mandatory supervised release for any person who does not elect the option, or who is otherwise ineligible. Effective immediately."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Justin Slaughter",
+      "date": "2025-07-08",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Justin Slaughter",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Justin Slaughter\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4082.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205271&DocName=10400HB4082&DocNum=4082&DocTypeID=HB&LegID=163984&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=4082&DocTypeID=HB&LegId=163984&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4082&GAID=18&DocTypeID=HB&LegId=163984&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "identifier": "",
+  "motion_text": "Personnel & Pensions",
+  "motion_classification": [],
+  "start_date": "2025-04-24",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "7d89a82e-7e1b-11f0-9290-a2330a6b74b7",
+  "bill_action": null,
+  "bill_identifier": "SB2175",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Deuter, Martha",
+      "voter_id": "~{\"name\": \"Deuter, Martha\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Avelar, Dagmara",
+      "voter_id": "~{\"name\": \"Avelar, Dagmara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kelly, Michael J",
+      "voter_id": "~{\"name\": \"Kelly, Michael J\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Huynh, Hoan",
+      "voter_id": "~{\"name\": \"Huynh, Hoan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Moore, Kyle",
+      "voter_id": "~{\"name\": \"Moore, Kyle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Kifowit, Stephanie A",
+      "voter_id": "~{\"name\": \"Kifowit, Stephanie A\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reick, Steven",
+      "voter_id": "~{\"name\": \"Reick, Steven\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Morris, Yolonda",
+      "voter_id": "~{\"name\": \"Morris, Yolonda\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Weaver, Travis",
+      "voter_id": "~{\"name\": \"Weaver, Travis\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Vella, Dave",
+      "voter_id": "~{\"name\": \"Vella, Dave\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Yang Rohr, Janet",
+      "voter_id": "~{\"name\": \"Yang Rohr, Janet\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Wilhour, Blaine",
+      "voter_id": "~{\"name\": \"Wilhour, Blaine\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 12
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400SB2175_43585.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400SB2175_43585.pdf"
+}

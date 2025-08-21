@@ -1,0 +1,16 @@
+Title: Full Text of SB0536
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB0536 ILGA.GOV SB0536 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB0536 Introduced 1/24/2025, by Sen. Don Harmon SYNOPSIS AS INTRODUCED: 30 ILCS 340/1  from Ch. 120, par. 406    Amends the Short Term Borrowing Act. Makes a technical change in a Section concerning cash flow borrowing.LRB104 06765 RLC 16801 b  A BILL FOR SB0536LRB104 06765 RLC 16801 b1    AN ACT concerning finance. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Short Term Borrowing Act is amended by 5changing Section 1 as follows: 6    (30 ILCS 340/1)  (from Ch. 120, par. 406)7    Sec. 1. Cash flow borrowing. Whenever significant timing 8variations occur between disbursement and and receipt of 9budgeted funds within a fiscal year, making it necessary to 10borrow in anticipation of revenues to be collected in a fiscal 11year, in order to meet the same, the Governor, Comptroller and 12Treasurer may contract debts, in an amount not exceeding 5% of 13the State's appropriations for that fiscal year, and moneys 14thus borrowed shall be applied to the purpose for which they 15were obtained, or to pay the costs of borrowing and the debts 16thus created, and to no other purpose. All moneys so borrowed 17shall be repaid by the close of the fiscal year in which 18borrowed.19(Source: P.A. 101-630, eff. 5-29-20.)
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB0536 ILGA.GOV SB0536 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB0536 Introduced 1/24/2025, by Sen. Don Harmon SYNOPSIS AS INTRODUCED: 30 ILCS 340/1  from Ch. 120, par. 406    Amends the Short Term Borrowing Act. Makes a technical change in a Section concerning cash flow borrowing.LRB104 06765 RLC 16801 b  A BILL FOR SB0536LRB104 06765 RLC 16801 b1    AN ACT concerning finance. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Short Term Borrowing Act is amended by 5changing Section 1 as follows: 6    (30 ILCS 340/1)  (from Ch. 120, par. 406)7    Sec. 1. Cash flow borrowing. Whenever significant timing 8variations occur between disbursement and and receipt of 9budgeted funds within a fiscal year, making it necessary to 10borrow in anticipation of revenues to be collected in a fiscal 11year, in order to meet the same, the Governor, Comptroller and 12Treasurer may contract debts, in an amount not exceeding 5% of 13the State's appropriations for that fiscal year, and moneys 14thus borrowed shall be applied to the purpose for which they 15were obtained, or to pay the costs of borrowing and the debts 16thus created, and to no other purpose. All moneys so borrowed 17shall be repaid by the close of the fiscal year in which 18borrowed.19(Source: P.A. 101-630, eff. 5-29-20.)

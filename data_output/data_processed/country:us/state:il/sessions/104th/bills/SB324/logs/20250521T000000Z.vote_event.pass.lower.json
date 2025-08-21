@@ -1,0 +1,120 @@
+{
+  "identifier": "",
+  "motion_text": "Adoption & Child Welfare",
+  "motion_classification": [],
+  "start_date": "2025-05-21",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "f1214560-7e18-11f0-9290-a2330a6b74b7",
+  "bill_action": null,
+  "bill_identifier": "SB324",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Davis, Jed",
+      "voter_id": "~{\"name\": \"Davis, Jed\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Crawford, Michael",
+      "voter_id": "~{\"name\": \"Crawford, Michael\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hernandez, Norma",
+      "voter_id": "~{\"name\": \"Hernandez, Norma\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Deering, Regan",
+      "voter_id": "~{\"name\": \"Deering, Regan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "LaPointe, Lindsey",
+      "voter_id": "~{\"name\": \"LaPointe, Lindsey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "La Ha, Nicole",
+      "voter_id": "~{\"name\": \"La Ha, Nicole\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Mussman, Michelle",
+      "voter_id": "~{\"name\": \"Mussman, Michelle\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Morris, Yolonda",
+      "voter_id": "~{\"name\": \"Morris, Yolonda\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Olickal, Kevin John",
+      "voter_id": "~{\"name\": \"Olickal, Kevin John\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "West II, Maurice A",
+      "voter_id": "~{\"name\": \"West II, Maurice A\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Reick, Steven",
+      "voter_id": "~{\"name\": \"Reick, Steven\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Ness, Suzanne M",
+      "voter_id": "~{\"name\": \"Ness, Suzanne M\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 11
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400SB0324_44441.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400SB0324_44441.pdf"
+}

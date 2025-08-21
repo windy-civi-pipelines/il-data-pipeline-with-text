@@ -1,0 +1,189 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HJRCA19",
+  "title": "CONAMEND-LEGISLATIVE QUORUM",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "constitutional amendment"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Proposes to amend the Legislature Article of the Illinois Constitution. Provides that two-thirds of each house shall constitute a quorum to do business, but a smaller number may adjourn from day to day, and compel the attendance of absent members, in such manner and under such penalties as each house may provide (now, a majority of the members elected to each house constitutes a quorum). Effective upon being declared adopted in accordance with Section 7 of the Illinois Constitutional Amendment Act."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Ryan Spain",
+      "date": "2025-08-04",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Added Chief Co-Sponsor Rep. Tony M. McCombie",
+      "date": "2025-08-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Norine K. Hammond",
+      "date": "2025-08-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Dan Ugaste",
+      "date": "2025-08-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Amy Elik",
+      "date": "2025-08-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Jackie Haas",
+      "date": "2025-08-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Jeff Keicher",
+      "date": "2025-08-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Brad Stephens",
+      "date": "2025-08-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Ryan Spain",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ryan Spain\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tony M. McCombie",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Tony M. McCombie\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Norine K. Hammond",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Norine K. Hammond\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Dan Ugaste",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dan Ugaste\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Amy Elik",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Amy Elik\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jackie Haas",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jackie Haas\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jeff Keicher",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Jeff Keicher\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Brad Stephens",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Brad Stephens\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HJRCA/PDF/10400HC0019.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205316&DocName=10400HC0019&DocNum=19&DocTypeID=HJRCA&LegID=164029&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=19&DocTypeID=HJRCA&LegId=164029&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=19&GAID=18&DocTypeID=HJRCA&LegId=164029&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  }
+}

@@ -1,0 +1,16 @@
+Title: Full Text of SB0634
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 002
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB0634 ILGA.GOV SB0634 - 104th General Assembly Rep. Mary Beth CantyFiled: 5/16/2025   10400SB0634ham002LRB104 06912 RTM 26311 a1AMENDMENT TO SENATE BILL 6342    AMENDMENT NO. ______. Amend Senate Bill 634, AS AMENDED, 3by replacing everything after the enacting clause with the 4following: 5    "Section 5. The Local Records Act is amended by adding 6Section 30 as follows: 7    (50 ILCS 205/30 new)8    Sec. 30. Contracts of $5,000,000 or more.9    (a) A municipality must compile and publish a list of each 10contract it enters into for $5,000,000 or more for public 11infrastructure projects. The list shall be published at least 12once each year before the end of the fiscal year. The published 13list shall be available for public inspection or copying and 14on the municipality's website if the website is maintained by 15the municipality's full-time staff. Nothing in this subsection 16requires a municipality to create a website for this purpose.  10400SB0634ham002- 2 -LRB104 06912 RTM 26311 a1    (b) A home rule municipality may not compile and publish a 2list of contracts it enters into for $5,000,000 or more in a 3manner that is inconsistent with this Section. This Section is 4a limitation under subsection (i) of Section 6 of Article VII 5of the Illinois Constitution on the concurrent exercise by 6home rule units of powers and functions exercised by the 7State.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB0634 ILGA.GOV SB0634 - 104th General Assembly Rep. Mary Beth CantyFiled: 5/16/2025   10400SB0634ham002LRB104 06912 RTM 26311 a1AMENDMENT TO SENATE BILL 6342    AMENDMENT NO. ______. Amend Senate Bill 634, AS AMENDED, 3by replacing everything after the enacting clause with the 4following: 5    "Section 5. The Local Records Act is amended by adding 6Section 30 as follows: 7    (50 ILCS 205/30 new)8    Sec. 30. Contracts of $5,000,000 or more.9    (a) A municipality must compile and publish a list of each 10contract it enters into for $5,000,000 or more for public 11infrastructure projects. The list shall be published at least 12once each year before the end of the fiscal year. The published 13list shall be available for public inspection or copying and 14on the municipality's website if the website is maintained by 15the municipality's full-time staff. Nothing in this subsection 16requires a municipality to create a website for this purpose.  10400SB0634ham002- 2 -LRB104 06912 RTM 26311 a1    (b) A home rule municipality may not compile and publish a 2list of contracts it enters into for $5,000,000 or more in a 3manner that is inconsistent with this Section. This Section is 4a limitation under subsection (i) of Section 6 of Article VII 5of the Illinois Constitution on the concurrent exercise by 6home rule units of powers and functions exercised by the 7State.".

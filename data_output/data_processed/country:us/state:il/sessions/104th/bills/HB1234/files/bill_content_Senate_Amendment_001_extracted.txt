@@ -1,0 +1,16 @@
+Title: Full Text of HB1234
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB1234 ILGA.GOV HB1234 - 104th General Assembly Sen. Ram VillivalamFiled: 5/21/2025   10400HB1234sam001LRB104 06172 SPS 26327 a1AMENDMENT TO HOUSE BILL 1234 2    AMENDMENT NO. ______. Amend House Bill 1234 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Secretary of State Act is amended by 5adding Section 38 as follows: 6    (15 ILCS 305/38 new)7    Sec. 38. Study on automobile insurance affordability and 8availability. Subject to appropriation, the Secretary of 9State, in conjunction with the Office of Risk Management and 10Insurance Research at the University of Illinois, shall 11conduct a study on the affordability and availability of 12statutorily mandated automobile insurance in this State. The 13study shall include, but shall not be limited to, the use of 14zip codes, credit scores, and age in ratemaking and whether 15the specific factor results in inequitable rates being 16assessed to certain populations. No later than July 1, 2026,   10400HB1234sam001- 2 -LRB104 06172 SPS 26327 a1the Secretary of State shall submit the report and its 2recommendations to the Governor and the General Assembly. 3    Section 99. Effective date. This Act takes effect upon 4becoming law.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB1234 ILGA.GOV HB1234 - 104th General Assembly Sen. Ram VillivalamFiled: 5/21/2025   10400HB1234sam001LRB104 06172 SPS 26327 a1AMENDMENT TO HOUSE BILL 1234 2    AMENDMENT NO. ______. Amend House Bill 1234 by replacing 3everything after the enacting clause with the following: 4    "Section 5. The Secretary of State Act is amended by 5adding Section 38 as follows: 6    (15 ILCS 305/38 new)7    Sec. 38. Study on automobile insurance affordability and 8availability. Subject to appropriation, the Secretary of 9State, in conjunction with the Office of Risk Management and 10Insurance Research at the University of Illinois, shall 11conduct a study on the affordability and availability of 12statutorily mandated automobile insurance in this State. The 13study shall include, but shall not be limited to, the use of 14zip codes, credit scores, and age in ratemaking and whether 15the specific factor results in inequitable rates being 16assessed to certain populations. No later than July 1, 2026,   10400HB1234sam001- 2 -LRB104 06172 SPS 26327 a1the Secretary of State shall submit the report and its 2recommendations to the Governor and the General Assembly. 3    Section 99. Effective date. This Act takes effect upon 4becoming law.".

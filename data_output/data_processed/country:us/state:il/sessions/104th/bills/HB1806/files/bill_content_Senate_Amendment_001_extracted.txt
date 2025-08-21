@@ -1,0 +1,16 @@
+Title: Full Text of HB1806
+Official Title: 
+Number of Sections: 1
+Source: versions - Senate Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB1806 ILGA.GOV HB1806 - 104th General Assembly Sen. Ram VillivalamFiled: 5/1/2025   10400HB1806sam001LRB104 07364 AAS 25696 a1AMENDMENT TO HOUSE BILL 1806 2    AMENDMENT NO. ______. Amend House Bill 1806 on page 2, by 3replacing lines 2 through 20 with the following:4    ""Artificial intelligence" has the meaning given to that 5term in Section 2-101 of the Illinois Human Rights Act."; and 6on page 7, line 2, by deleting "systems"; and 7on page 7, line 4, by replacing "an artificial intelligence 8system" with "artificial intelligence".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB1806 ILGA.GOV HB1806 - 104th General Assembly Sen. Ram VillivalamFiled: 5/1/2025   10400HB1806sam001LRB104 07364 AAS 25696 a1AMENDMENT TO HOUSE BILL 1806 2    AMENDMENT NO. ______. Amend House Bill 1806 on page 2, by 3replacing lines 2 through 20 with the following:4    ""Artificial intelligence" has the meaning given to that 5term in Section 2-101 of the Illinois Human Rights Act."; and 6on page 7, line 2, by deleting "systems"; and 7on page 7, line 4, by replacing "an artificial intelligence 8system" with "artificial intelligence".

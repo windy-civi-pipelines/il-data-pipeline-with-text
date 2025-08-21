@@ -1,0 +1,324 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4086",
+  "title": "CRIM CD-LAW ENFORCE-MASKS",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Amends the Criminal Code of 2012. Provides that a law enforcement officer shall not wear any mask or neck gaiter while interacting with the public in the performance of the officer's duties, except for medical grade masks that are surgical or N95 respirators designed to prevent the transmission of airborne diseases and diseases, masks designed to protect against exposure to smoke during a state of emergency related to wildfires, or protective gear used by Special Weapons and Tactics (SWAT) team officers necessary to protect their faces from harm while they perform their SWAT responsibilities. Provides that \"mask\" does not include a face shield if it does not conceal the wearer's face and does not include a clear mask that does not conceal the wearer's face. Provides that while executing law enforcement duties, a law enforcement officer shall display on the uniform that the officer wears: (i) the officer's name or badge number and (ii) the agency in which the officer is employed. Provides that the provisions do not apply to an officer while the officer is engaged in an undercover assignment. Provides that moneys from fines received for convictions under this provision shall be deposited into a special fund in the State treasury to be known as the Immigrant Family Services Fund and shall be used by the Department of Human Services to provide immigrant family services as determined by the Secretary of Human Services. Establishes penalties for violations. Defines terms. Amends the State Finance Act to make conforming changes."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Barbara Hernandez",
+      "date": "2025-07-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Anna Moeller",
+      "date": "2025-07-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Mary Beth Canty",
+      "date": "2025-07-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Anne Stava-Murray",
+      "date": "2025-07-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Stephanie A. Kifowit",
+      "date": "2025-07-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Amy Briel",
+      "date": "2025-07-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Laura Faver Dias",
+      "date": "2025-07-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Nicolle Grasse",
+      "date": "2025-07-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Diane Blair-Sherlock",
+      "date": "2025-07-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Kelly M. Cassidy",
+      "date": "2025-07-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Maura Hirschauer",
+      "date": "2025-07-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Joyce Mason",
+      "date": "2025-07-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Margaret Croke",
+      "date": "2025-07-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Ann M. Williams",
+      "date": "2025-07-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Eva-Dina Delgado",
+      "date": "2025-07-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Edgar Gonz\u00e1lez, Jr.",
+      "date": "2025-07-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Lisa Davis",
+      "date": "2025-07-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Barbara Hernandez",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Barbara Hernandez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anna Moeller",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Anna Moeller\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Mary Beth Canty",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Mary Beth Canty\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Anne Stava-Murray",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Anne Stava-Murray\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Stephanie A. Kifowit",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Stephanie A. Kifowit\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Amy Briel",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Amy Briel\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Laura Faver Dias",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Laura Faver Dias\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Nicolle Grasse",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Nicolle Grasse\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Diane Blair-Sherlock",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Diane Blair-Sherlock\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kelly M. Cassidy",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kelly M. Cassidy\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Maura Hirschauer",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Maura Hirschauer\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joyce Mason",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Joyce Mason\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Margaret Croke",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Margaret Croke\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Ann M. Williams",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Ann M. Williams\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eva-Dina Delgado",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Eva-Dina Delgado\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Edgar Gonz\u00e1lez, Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Edgar Gonz\\u00e1lez, Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Lisa Davis",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Lisa Davis\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4086.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205294&DocName=10400HB4086&DocNum=4086&DocTypeID=HB&LegID=164007&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=4086&DocTypeID=HB&LegId=164007&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4086&GAID=18&DocTypeID=HB&LegId=164007&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  }
+}

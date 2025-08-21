@@ -1,0 +1,16 @@
+Title: Full Text of SB1443
+Official Title: 
+Number of Sections: 1
+Source: versions - Enrolled
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB1443 ILGA.GOV SB1443 - 104th General Assembly SB1443 EnrolledLRB104 07581 JRC 17625 b1    AN ACT concerning civil law. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Mortgage Act is amended by adding Section 517 as follows: 6    (765 ILCS 905/17 new)7    Sec. 17. Notwithstanding any other provisions of this Act:8        (1) The Act does not abrogate the Illinois common law 9    that the payment in full of a debt secured by a mortgage 10    extinguishes the lien.11        (2) Payment in full of a debt secured by a mortgage 12    pursuant to a payoff statement, as defined in Section 5 of 13    the Mortgage Certificate of Release Act, issued by or on 14    behalf of the holder of the indebtedness extinguishes the 15    lien of the mortgage. 16    Section 99. Effective date. This Act takes effect upon 17becoming law.
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB1443 ILGA.GOV SB1443 - 104th General Assembly SB1443 EnrolledLRB104 07581 JRC 17625 b1    AN ACT concerning civil law. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Mortgage Act is amended by adding Section 517 as follows: 6    (765 ILCS 905/17 new)7    Sec. 17. Notwithstanding any other provisions of this Act:8        (1) The Act does not abrogate the Illinois common law 9    that the payment in full of a debt secured by a mortgage 10    extinguishes the lien.11        (2) Payment in full of a debt secured by a mortgage 12    pursuant to a payoff statement, as defined in Section 5 of 13    the Mortgage Certificate of Release Act, issued by or on 14    behalf of the holder of the indebtedness extinguishes the 15    lien of the mortgage. 16    Section 99. Effective date. This Act takes effect upon 17becoming law.

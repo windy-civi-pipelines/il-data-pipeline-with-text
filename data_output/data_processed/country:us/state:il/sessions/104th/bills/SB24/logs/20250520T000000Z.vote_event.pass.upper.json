@@ -1,0 +1,108 @@
+{
+  "identifier": "",
+  "motion_text": "Criminal Law",
+  "motion_classification": [],
+  "start_date": "2025-05-20",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "104th",
+  "bill": "85a7c5a2-7e18-11f0-9290-a2330a6b74b7",
+  "bill_action": null,
+  "bill_identifier": "SB24",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Cervantes, Javier L",
+      "voter_id": "~{\"name\": \"Cervantes, Javier L\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Bryant, Terri",
+      "voter_id": "~{\"name\": \"Bryant, Terri\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Halpin, Michael W",
+      "voter_id": "~{\"name\": \"Halpin, Michael W\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Collins, Lakesia",
+      "voter_id": "~{\"name\": \"Collins, Lakesia\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sims Jr., Elgie R",
+      "voter_id": "~{\"name\": \"Sims Jr., Elgie R\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Peters, Robert",
+      "voter_id": "~{\"name\": \"Peters, Robert\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Villanueva, Celina",
+      "voter_id": "~{\"name\": \"Villanueva, Celina\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tracy, Jil",
+      "voter_id": "~{\"name\": \"Tracy, Jil\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "McClure, Steve",
+      "voter_id": "~{\"name\": \"McClure, Steve\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Martwick, Robert F",
+      "voter_id": "~{\"name\": \"Martwick, Robert F\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 8
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 2
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0024_44380.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0024_44380.pdf"
+}

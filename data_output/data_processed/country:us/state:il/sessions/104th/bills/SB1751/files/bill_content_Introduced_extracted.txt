@@ -1,0 +1,16 @@
+Title: Full Text of SB1751
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of SB1751 ILGA.GOV SB1751 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB1751 Introduced 2/5/2025, by Sen. Javier L. Cervantes SYNOPSIS AS INTRODUCED: 305 ILCS 5/12-4.13f new    Amends the Administration Article of the Illinois Public Aid Code. Provides that if a household's monthly benefit amount under the federal Supplemental Nutrition Assistance Program is determined to be less than $75, the State shall pay an additional amount to increase the household's total monthly benefit to $75. Effective October 1, 2025.LRB104 08427 KTG 18479 b  A BILL FOR SB1751LRB104 08427 KTG 18479 b1    AN ACT concerning public aid. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Illinois Public Aid Code is amended by 5adding Section 12-4.13f as follows: 6    (305 ILCS 5/12-4.13f new)7    Sec. 12-4.13f. SNAP minimum benefit level. If a 8household's monthly benefit amount under the federal 9Supplemental Nutrition Assistance Program is determined to be 10less than $75, the State shall pay an additional amount to 11increase the household's total monthly benefit to $75. 12    Section 99. Effective date. This Act takes effect October 131, 2025.
+
+
+================================================================================
+
+Raw Text:
+Full Text of SB1751 ILGA.GOV SB1751 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026SB1751 Introduced 2/5/2025, by Sen. Javier L. Cervantes SYNOPSIS AS INTRODUCED: 305 ILCS 5/12-4.13f new    Amends the Administration Article of the Illinois Public Aid Code. Provides that if a household's monthly benefit amount under the federal Supplemental Nutrition Assistance Program is determined to be less than $75, the State shall pay an additional amount to increase the household's total monthly benefit to $75. Effective October 1, 2025.LRB104 08427 KTG 18479 b  A BILL FOR SB1751LRB104 08427 KTG 18479 b1    AN ACT concerning public aid. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 5. The Illinois Public Aid Code is amended by 5adding Section 12-4.13f as follows: 6    (305 ILCS 5/12-4.13f new)7    Sec. 12-4.13f. SNAP minimum benefit level. If a 8household's monthly benefit amount under the federal 9Supplemental Nutrition Assistance Program is determined to be 10less than $75, the State shall pay an additional amount to 11increase the household's total monthly benefit to $75. 12    Section 99. Effective date. This Act takes effect October 131, 2025.

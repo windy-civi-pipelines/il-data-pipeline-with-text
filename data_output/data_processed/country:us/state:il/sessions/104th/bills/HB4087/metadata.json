@@ -1,0 +1,144 @@
+{
+  "legislative_session": "104th",
+  "identifier": "HB4087",
+  "title": "ENERGY-TASK FORCE/CARBON INFRA",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [
+    {
+      "note": "",
+      "abstract": "Creates the Illinois Regional Generation Reliability Task Force Act. Creates the Illinois Regional Generation Reliability Task Force. Provides that the Task Force shall monitor the reliability of the Illinois power grid. Contains provisions concerning the membership of the Task Force; duties of the Task Force; administrative support; and an annual report. Effective immediately."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [],
+  "actions": [
+    {
+      "description": "Filed with the Clerk by Rep. Dave Severin",
+      "date": "2025-07-22",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "filing"
+      ],
+      "related_entities": []
+    },
+    {
+      "description": "Added Chief Co-Sponsor Rep. Charles Meier",
+      "date": "2025-07-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Chief Co-Sponsor Rep. Patrick Windhorst",
+      "date": "2025-08-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Chief Co-Sponsor Rep. Paul Jacobs",
+      "date": "2025-08-05",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    },
+    {
+      "description": "Added Co-Sponsor Rep. Kevin Schmidt",
+      "date": "2025-08-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": []
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "Dave Severin",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Dave Severin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Charles Meier",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Charles Meier\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Patrick Windhorst",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Patrick Windhorst\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Paul Jacobs",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Paul Jacobs\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Kevin Schmidt",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"lower\", \"name\": \"Kevin Schmidt\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Introduced",
+      "links": [
+        {
+          "url": "https://ilga.gov/documents/legislation/104/HB/PDF/10400HB4087.pdf",
+          "media_type": "application/pdf"
+        },
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?LegDocId=205297&DocName=10400HB4087&DocNum=4087&DocTypeID=HB&LegID=164010&GAID=18&SessionID=114&SpecSess=&Session=&Print=1",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [
+    {
+      "note": "Printer Friendly Version",
+      "links": [
+        {
+          "url": "https://ilga.gov/Legislation/BillStatus/FullText?GAID=18&DocNum=4087&DocTypeID=HB&LegId=164010&SessionID=114&Print=1",
+          "media_type": ""
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://ilga.gov/Legislation/BillStatus?DocNum=4087&GAID=18&DocTypeID=HB&LegId=164010&SessionID=114",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:il/government",
+    "name": "Illinois",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:il"
+  }
+}

@@ -1,0 +1,16 @@
+Title: Full Text of HB1565
+Official Title: 
+Number of Sections: 1
+Source: versions - Introduced
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB1565 ILGA.GOV HB1565 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB1565 Introduced 1/28/2025, by Rep. Jaime M. Andrade, Jr. SYNOPSIS AS INTRODUCED: New Act    Creates the Anti-Click Gambling Data Analytics Collection Act. Provides that no entity that operates a remote gambling platform or a subsidiary of the entity shall collect data from a participant with the intent to predict how the participant will gamble in a particular gambling or betting scenario. Effective immediately.LRB104 08070 LNS 18116 b  A BILL FOR HB1565LRB104 08070 LNS 18116 b1    AN ACT concerning gaming. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 1. Short title. This Act may be cited as the 5Anti-Click Gambling Data Analytics Collection Act. 6    Section 5. Definitions. As used in this Act, "remote 7gambling" means gambling in which persons participate by the 8use of remote communication, such as the Internet, telephone, 9television, radio, or any other kind of electronic or other 10technology for facilitating communication. 11    Section 10. Data collection prohibited. An entity that 12operates a remote gambling platform or a subsidiary of the 13entity shall not collect data from a participant with the 14intent to predict how the participant will gamble in a 15particular gambling or betting scenario. 16    Section 99. Effective date. This Act takes effect upon 17becoming law.
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB1565 ILGA.GOV HB1565 - 104th General Assembly 104TH GENERAL ASSEMBLY State of Illinois 2025 and 2026HB1565 Introduced 1/28/2025, by Rep. Jaime M. Andrade, Jr. SYNOPSIS AS INTRODUCED: New Act    Creates the Anti-Click Gambling Data Analytics Collection Act. Provides that no entity that operates a remote gambling platform or a subsidiary of the entity shall collect data from a participant with the intent to predict how the participant will gamble in a particular gambling or betting scenario. Effective immediately.LRB104 08070 LNS 18116 b  A BILL FOR HB1565LRB104 08070 LNS 18116 b1    AN ACT concerning gaming. 2    Be it enacted by the People of the State of Illinois, 3represented in the General Assembly: 4    Section 1. Short title. This Act may be cited as the 5Anti-Click Gambling Data Analytics Collection Act. 6    Section 5. Definitions. As used in this Act, "remote 7gambling" means gambling in which persons participate by the 8use of remote communication, such as the Internet, telephone, 9television, radio, or any other kind of electronic or other 10technology for facilitating communication. 11    Section 10. Data collection prohibited. An entity that 12operates a remote gambling platform or a subsidiary of the 13entity shall not collect data from a participant with the 14intent to predict how the participant will gamble in a 15particular gambling or betting scenario. 16    Section 99. Effective date. This Act takes effect upon 17becoming law.

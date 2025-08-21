@@ -1,0 +1,16 @@
+Title: Full Text of HB1857
+Official Title: 
+Number of Sections: 1
+Source: versions - House Amendment 001
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+Full Text of HB1857 ILGA.GOV HB1857 - 104th General Assembly Rep. Laura Faver DiasFiled: 3/26/2025   10400HB1857ham001LRB104 10064 BAB 23661 a1AMENDMENT TO HOUSE BILL 1857 2    AMENDMENT NO. ______. Amend House Bill 1857 on page 8, by 3replacing lines 3 through 12 with the following: 4    "(215 ILCS 5/356z.80 new)5    Sec. 356z.80. Coverage for disposable incontinence 6supplies.7    (a) As used in this Section:8    "Disability" means a condition characterized by temporary, 9permanent, partial, or complete impairment of physical, 10mental, or physiological function.11    "Disposable incontinence supplies" means adult diapers, 12protective underwear, and disposable underpads. 13    (b) A group or individual policy of accident and health 14insurance or a managed care plan that is amended, delivered, 15issued, or renewed on or after January 1, 2027 shall provide 16coverage for medically necessary disposable incontinence 17supplies for any person with a disability.  10400HB1857ham001- 2 -LRB104 10064 BAB 23661 a1    (c) To qualify for coverage under this Section, an 2individual must have:3        (1) a documented medical diagnosis confirming 4    incontinence; and5        (2) a signed prescription from a physician specifying 6    the type and quantity of supplies needed.".
+
+
+================================================================================
+
+Raw Text:
+Full Text of HB1857 ILGA.GOV HB1857 - 104th General Assembly Rep. Laura Faver DiasFiled: 3/26/2025   10400HB1857ham001LRB104 10064 BAB 23661 a1AMENDMENT TO HOUSE BILL 1857 2    AMENDMENT NO. ______. Amend House Bill 1857 on page 8, by 3replacing lines 3 through 12 with the following: 4    "(215 ILCS 5/356z.80 new)5    Sec. 356z.80. Coverage for disposable incontinence 6supplies.7    (a) As used in this Section:8    "Disability" means a condition characterized by temporary, 9permanent, partial, or complete impairment of physical, 10mental, or physiological function.11    "Disposable incontinence supplies" means adult diapers, 12protective underwear, and disposable underpads. 13    (b) A group or individual policy of accident and health 14insurance or a managed care plan that is amended, delivered, 15issued, or renewed on or after January 1, 2027 shall provide 16coverage for medically necessary disposable incontinence 17supplies for any person with a disability.  10400HB1857ham001- 2 -LRB104 10064 BAB 23661 a1    (c) To qualify for coverage under this Section, an 2individual must have:3        (1) a documented medical diagnosis confirming 4    incontinence; and5        (2) a signed prescription from a physician specifying 6    the type and quantity of supplies needed.".
